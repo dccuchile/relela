@@ -13,17 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CDLV ESTUDIO
-email: constanza.lledo@gmail.com
+title: RNLP
+email: rnlp@dcc.uchile.cl
 #description: >- # this means to ignore newlines until "baseurl:"  Hola soy Constanza diseñora de interiores, te invito a ver mi trabajo.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://constanzall.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "pics/logo.png" 
+url: "https://dccuchile.github.io/RENLP/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-
-linkedin_username: constanza-lledó-6694b792
 
 
 # Build settings
