@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: RNLP
-email: rnlp@dcc.uchile.cl
+title: REpresentation LEarning + Natural LAnguage Processing Group (ReLeLa)
+#email: constanza.lledo@gmail.com
 #description: >- # this means to ignore newlines until "baseurl:"  Hola soy Constanza diseñora de interiores, te invito a ver mi trabajo.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dccuchile.github.io/RENLP/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dccuchile.github.io/ReLeLa/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  dccuchile
 
 
 
