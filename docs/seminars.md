@@ -1,8 +1,3 @@
----
-layout: page
-title: Seminars
-permalink: /seminars/
----
 
 We held weekly meetins on Wednesdays at 3PM.
 

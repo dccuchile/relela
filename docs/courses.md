@@ -1,8 +1,3 @@
----
-layout: page
-title: Courses
-permalink: /courses/
----
 
 We teach the following courses:
 
