@@ -1,0 +1,10 @@
+site_name: ReLeLa
+theme: mkdocs  
+repo_url: https://felipebravom.com
+site_description: REpresentation LEarning + Natural LAnguage Processing Group (ReLeLa)
+nav:
+    - Home: index.md
+    - Courses: courses.md
+    - Projects: projects.md
+    - Seminars: seminars.md
+    - Publications: publications.md      
