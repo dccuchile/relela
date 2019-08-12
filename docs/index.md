@@ -14,6 +14,12 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 
 1. Pablo Badilla
 2. Juglar Díaz
+3. Sebastián Donoso 
+4. Frank Zamora 
+5. Jhonny Cerezo 
+6. Vicente Oyanedel 
+7. José Cañete 
+
 
 
 ## Collaborators
