@@ -12,6 +12,9 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 
 ## Students
 
+1. Constanza Fierro 
+2. Juan Andrés Moreno 
+3. Víctor Caro 
 1. Pablo Badilla
 2. Juglar Díaz
 3. Sebastián Donoso 
