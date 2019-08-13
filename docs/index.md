@@ -23,6 +23,7 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 6. Vicente Oyanedel 
 7. José Cañete 
 1. Daniel Aguirre
+1. Cristian Tamblay 
 
 
 ## Collaborators
