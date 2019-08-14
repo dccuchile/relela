@@ -29,4 +29,4 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 ## Collaborators
 
 1. [Jocelyn Durstan](https://sites.google.com/view/jdunstan/home)
-
+1. [Mauricio Quezada](https://users.dcc.uchile.cl/~mquezada/)
