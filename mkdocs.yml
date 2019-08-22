@@ -7,4 +7,6 @@ nav:
     - Courses: courses.md
     - Projects: projects.md
     - Seminars: seminars.md
-    - Publications: publications.md      
+    - Publications: publications.md  
+    - Pointers: pointers.md
+      
