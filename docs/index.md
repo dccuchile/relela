@@ -11,6 +11,7 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 2. [Felipe Bravo-Marquez](https://felipebravom.com/)
 3. [Claudio Gutiérrez](https://users.dcc.uchile.cl/~cgutierr/)
 4. [Bárbara Poblete](https://www.barbara.cl/)
+5. [Alexandre Bergel](http://bergel.eu/)
 
 ## Students
 
