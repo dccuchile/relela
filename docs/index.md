@@ -31,6 +31,8 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 1. Juan-Pablo Silva
 1. Camilo Garrido
 1. Cristián Ahumada 
+1. Mabel Sánchez
+1. Hernán Sarmiento
  
 
 
