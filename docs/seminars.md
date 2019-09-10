@@ -1,5 +1,7 @@
 
-We hold weekly meetings on Wednesdays at 2PM.
+We hold weekly meetings on Wednesdays at 2PM at Auditorio Philippe Frajolet (303) Tercer Piso Edificio Poniente Beauchef 851.
+
+
 
 Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOGdoc21nc3BscG9hMXBwaDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
