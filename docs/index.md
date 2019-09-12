@@ -40,3 +40,4 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 
 1. [Jocelyn Durstan](https://sites.google.com/view/jdunstan/home)
 1. [Mauricio Quezada](https://users.dcc.uchile.cl/~mquezada/)
+1. [Felipe Tobar](http://www.dim.uchile.cl/~ftobar/)
