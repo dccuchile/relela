@@ -7,6 +7,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 
 
 ## Minutas (In Spanish)
+1. 25/09/2019: [Wladmir Cardoso Brandão](http://www.wladmirbrandao.com) presentó [InferSent](https://github.com/facebookresearch/InferSent), una técnica para entrenar sentence embeddings usando datos de la Natural Language Inference task.
 1. 11/09/2019: Henry Rosales presentó su artículo publicado en EMNLP sobre Entity Linking.
 1. 04/09/2019: vimos la segunda parte del video de MultiTask Learning. Algunos conceptos interesantes: pointer networks (capas basadas en atención para copiar partes del input), anti-curriculum training (aprender primero lo más díficil para evitar quedar en óptimo local).
 1. 28/08/2019: Jorge dió una clase sobre [XLNet](https://github.com/zihangdai/xlnet). Para llegar a XLNet hizo un repaso sobre Attention, Transformer y [BERT](https://arxiv.org/abs/1810.04805). Cosas destacables sobre XLNet: relative positional encoding y permutation language models. Un blog post que trata de digerir esto [aquí](http://mlexplained.com/2019/06/30/paper-dissected-xlnet-generalized-autoregressive-pretraining-for-language-understanding-explained/).
