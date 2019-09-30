@@ -8,7 +8,7 @@ We teach the following courses:
 
 #  Deep Learning Video Lectures (in Spanish) by Jorge Pérez
 
-Links to the video lectures of the first part of deep learning course:
+Links to the video lectures of the first part of the  deep learning course:
 
 1. [Peceptrón, funciones de activación, perceptrón multicapa, redes feed forward (FF), expresividad de redes FF](http://www.youtube.com/watch?v=oCGB8wVej-I)
 
