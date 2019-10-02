@@ -7,6 +7,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 
 
 ## Minutas (In Spanish)
+1. 02/10/2019: Jorge nos habló sobre dos papers de la familia de BERT que están en revisión en ICLR: 1) [ELECTRA](https://openreview.net/forum?id=r1xMH1BtvB) y 2) [ALBERT](https://openreview.net/forum?id=H1eA7AEtvS). Idea interesante de ELECTRA: tener dos redes adversariales donde la primera genera oraciones corrompidas pero altamente probables (se reemplazan ciertas palabras por un muestreo de la salida de una softmax) y la segunda discrimina las palabras originales de las falsas. Idea interesante de ALBERT: usar una embedding layer de menor dimensionalidad que se aumenta luego con una capa de proyección para reducir el número de párametros de BERT y reemplazar la task de next sentence prediction por una que tome dos oraciones consecutivas, las desordene en algunos casos, y prediga si tienen el orden correcto o no.  
 1. 25/09/2019: [Wladmir Cardoso Brandão](http://www.wladmirbrandao.com) presentó [InferSent](https://github.com/facebookresearch/InferSent), una técnica para entrenar sentence embeddings usando datos de la Natural Language Inference task.
 1. 11/09/2019: Henry Rosales presentó su artículo publicado en EMNLP sobre Entity Linking.
 1. 04/09/2019: vimos la segunda parte del video de MultiTask Learning. Algunos conceptos interesantes: pointer networks (capas basadas en atención para copiar partes del input), anti-curriculum training (aprender primero lo más díficil para evitar quedar en óptimo local).
