@@ -7,6 +7,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 
 
 ## Minutas (In Spanish)
+1. 09/10/2019: Felipe González (alumno de la USM) nos presentó su trabajo sobre privacidad en el caso de Cambridge Analytica en Twitter. Su trabajo hace uso de word embeddings y open coding para encontrar asociaciones entre términos. 
 1. 02/10/2019: Jorge nos habló sobre dos papers de la familia de BERT que están en revisión en ICLR: 1) [ELECTRA](https://openreview.net/forum?id=r1xMH1BtvB) y 2) [ALBERT](https://openreview.net/forum?id=H1eA7AEtvS). 
 	1.  Idea interesante de ELECTRA: tener dos redes adversariales donde la primera genera oraciones corrompidas pero altamente probables (se reemplazan ciertas palabras por un muestreo de la salida de una softmax). Esto reemplaza la idea de hacer masking en BERT. La segunda red recibe las oraciones corrompidas de la primera y aprende a discriminar las palabras originales de las falsas (esto se hace con un sigmoide). 
 	1. Idea interesante de ALBERT: usar un embedding layer de menor dimensionalidad que se aumenta luego con una capa de proyección. Esto reduce el número de parámetros respecto a BERT. Además se propone reemplazar la task de next sentence prediction por una que tome dos oraciones consecutivas, las desordene en algunos casos, y prediga si tienen el orden correcto. El argumento es que la tarea de next sentence prediction de BERT (que pone pares de oraciones aleatorias en los ejemplos negativos) es un muy simple. 
