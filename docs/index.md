@@ -5,13 +5,13 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 
 # Members
 
-## Academic Staff
+## Core Members
 
 1. [Jorge Pérez](https://users.dcc.uchile.cl/~jperez/)
 2. [Felipe Bravo-Marquez](https://felipebravom.com/)
 3. [Claudio Gutiérrez](https://users.dcc.uchile.cl/~cgutierr/)
-4. [Bárbara Poblete](https://www.barbara.cl/)
-5. [Alexandre Bergel](http://bergel.eu/)
+3. [Jocelyn Durstan](https://sites.google.com/view/jdunstan/home)
+
 
 ## Students
 
@@ -38,6 +38,7 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 
 ## Collaborators
 
-1. [Jocelyn Durstan](https://sites.google.com/view/jdunstan/home)
+1. [Bárbara Poblete](https://www.barbara.cl/)
+1. [Alexandre Bergel](http://bergel.eu/)
 1. [Mauricio Quezada](https://users.dcc.uchile.cl/~mquezada/)
 1. [Felipe Tobar](http://www.dim.uchile.cl/~ftobar/)
