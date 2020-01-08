@@ -34,7 +34,7 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 1. Mabel Sánchez
 1. Hernán Sarmiento
 1. Rolando Kindelan 
-
+1. Daniel Diomedi
 
 ## Collaborators
 

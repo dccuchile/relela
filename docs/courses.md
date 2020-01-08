@@ -28,4 +28,6 @@ Links to the video lectures of the first part of the  deep learning course:
 
 9. [Optimización II: Nesterov, RMSProp, Adam y Búsqueda de Hiperparámetros](http://www.youtube.com/watch?v=WGPTHQuMuR4)
 
+# NLP Video Lectures (in Spanish) by Felipe Bravo
 
+* [Youtube Playlist with lectures](https://www.youtube.com/playlist?list=PLppKo85eGXiXIh54H_qz48yHPHeNVJqBi)
