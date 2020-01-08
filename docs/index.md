@@ -12,6 +12,7 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 3. [Claudio Gutiérrez](https://users.dcc.uchile.cl/~cgutierr/)
 3. [Jocelyn Durstan](https://sites.google.com/view/jdunstan/home)
 1. [Bárbara Poblete](https://www.barbara.cl/)
+1. [Alexandre Bergel](http://bergel.eu/)
 
 
 ## Students
@@ -40,6 +41,6 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 ## Collaborators
 
 
-1. [Alexandre Bergel](http://bergel.eu/)
+
 1. [Mauricio Quezada](https://users.dcc.uchile.cl/~mquezada/)
 1. [Felipe Tobar](http://www.dim.uchile.cl/~ftobar/)
