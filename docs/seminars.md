@@ -8,6 +8,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 
 ## Minutas (In Spanish)
 1. 04/03/2020: Carlos Castillo ([chato](https://chato.cl/)) nos habló sobre "Fairness and Transparency in Rankings" ([slides](https://docs.google.com/presentation/d/1g8fKO8sL5zSTf4WMpziy-LiQrOI1rpHXpv9sZ2fljE0/edit?usp=sharing)).
+1. 16/03/2019: [José Lezama](https://scholar.google.com/citations?user=iDP84cQAAAAJ&hl=en&oi=sra) de la Universidad de la República in Uruguay nos presentó su trabajo publicado en ICLR titulado: Revisiting non-linear PCA with progressively grown autoencoders.
 1. 15/03/2019: Daniel Diomedi nos habló sobre su tema de tesis de magíster:  Improving Question Answering Systems over Wikidata.
 1. 27/11/2019:  Andrés Abeliuk (University of Southern California), nos habló sobre el impacto de los algoritmos en la sociedad. Más [info](https://www.dcc.uchile.cl/charla-impacto-de-los-algoritmos-en-la-sociedad).
 1. 16/10/2019: Rollan Rodríguez nos habló sobre métodos de clasificación usando topología.
