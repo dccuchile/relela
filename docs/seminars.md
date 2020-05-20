@@ -7,6 +7,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 
 
 ## Minutas (In Spanish)
+1. 20/05/2020: [Gonzalo Mena](https://gomena.github.io/) nos habló sobre "Métodos de estadística computacional y machine learning para las ciencias de la vida, con una aplicación a COVID-19." ([slides](slides/charla_gonzalo_mena.pdf)).
 1. 04/03/2020: Carlos Castillo ([Chato](https://chato.cl/)) nos habló sobre "Fairness and Transparency in Rankings" ([slides](https://docs.google.com/presentation/d/1g8fKO8sL5zSTf4WMpziy-LiQrOI1rpHXpv9sZ2fljE0/edit?usp=sharing)).
 1. 16/03/2019: [José Lezama](https://scholar.google.com/citations?user=iDP84cQAAAAJ&hl=en&oi=sra) de la Universidad de la República in Uruguay nos presentó su trabajo publicado en ICLR titulado: Revisiting non-linear PCA with progressively grown autoencoders.
 1. 15/03/2019: Daniel Diomedi nos habló sobre su tema de tesis de magíster:  Improving Question Answering Systems over Wikidata.
