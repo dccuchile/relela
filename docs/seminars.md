@@ -7,6 +7,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 
 
 ## Minutas (In Spanish)
+1. 12/08/2020: Javier Muñoz presentó su charla de Tesis I de magíster sobre multi-instance multi-label text classification para educación especial.
 1. 05/08/2020: Frank Zamora practiced for his PhD qualification exam. He presented his work on Semantic Change Detection and his survey on word representations.
 1. 20/05/2020: [Gonzalo Mena](https://gomena.github.io/) nos habló sobre "Métodos de estadística computacional y machine learning para las ciencias de la vida, con una aplicación a COVID-19." ([slides](slides/charla_gonzalo_mena.pdf)).
 1. 04/03/2020: Carlos Castillo ([Chato](https://chato.cl/)) nos habló sobre "Fairness and Transparency in Rankings" ([slides](https://docs.google.com/presentation/d/1g8fKO8sL5zSTf4WMpziy-LiQrOI1rpHXpv9sZ2fljE0/edit?usp=sharing)).
