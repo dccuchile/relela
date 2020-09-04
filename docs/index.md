@@ -10,7 +10,7 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 1. [Jorge Pérez](https://users.dcc.uchile.cl/~jperez/)
 2. [Felipe Bravo-Marquez](https://felipebravom.com/)
 3. [Claudio Gutiérrez](https://users.dcc.uchile.cl/~cgutierr/)
-3. [Jocelyn Durstan](https://sites.google.com/view/jdunstan/home)
+3. [Jocelyn Dunstan](https://sites.google.com/view/jdunstan/home)
 1. [Bárbara Poblete](https://www.barbara.cl/)
 1. [Alexandre Bergel](http://bergel.eu/)
 1. [Iván Sipirán](http://www.ivan-sipiran.com/)
