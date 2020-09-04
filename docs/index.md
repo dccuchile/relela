@@ -14,6 +14,8 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 1. [Bárbara Poblete](https://www.barbara.cl/)
 1. [Alexandre Bergel](http://bergel.eu/)
 1. [Iván Sipirán](http://www.ivan-sipiran.com/)
+1. [Benjamín Bustos](https://users.dcc.uchile.cl/~bebustos/)
+
 
 ## Students
 
