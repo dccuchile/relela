@@ -15,31 +15,39 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 1. [Alexandre Bergel](http://bergel.eu/)
 1. [Iván Sipirán](http://www.ivan-sipiran.com/)
 
-
 ## Students
 
-1. Constanza Fierro 
-2. Juan Andrés Moreno 
-3. Víctor Caro 
-1. Pablo Badilla
+### PhD Students
 2. Juglar Díaz
-3. Sebastián Donoso 
-4. Frank Zamora 
-5. Jhonny Cerezo 
-6. Vicente Oyanedel 
-7. José Cañete 
-1. Daniel Aguirre
-1. Cristian Tamblay
 1. Henry Rosales 
-1. Juan-Pablo Silva
 1. Camilo Garrido
+1. Hernán Sarmiento
+2. Aymé Arango
+3. Rolando Kindelan 
+
+### Masters Students
+1. Pablo Badilla
+1. Daniel Aguirre
+5. Jhonny Cerezo 
+6. Juan-Pablo Silva
 1. Cristián Ahumada 
 1. Mabel Sánchez
-1. Hernán Sarmiento
-1. Rolando Kindelan 
+
+### Undergrad Students
+2. Juan Andrés Moreno 
+3. Víctor Caro 
+3. Sebastián Donoso 
+6. Vicente Oyanedel 
+7. José Cañete 
 1. Daniel Diomedi
 1. Gabriel Chaperón
 1. Jesús Pérez-Martín 
+1. Ignacio Meza 
+
+### Alumni 
+
+1. Constanza Fierro 
+
 
 ## Collaborators
 
