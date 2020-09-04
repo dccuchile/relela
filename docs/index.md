@@ -32,6 +32,7 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 6. Juan-Pablo Silva
 1. Cristián Ahumada 
 1. Mabel Sánchez
+7. Daniel Diomedi
 
 ### Undergrad Students
 2. Juan Andrés Moreno 
@@ -39,7 +40,6 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 3. Sebastián Donoso 
 6. Vicente Oyanedel 
 7. José Cañete 
-1. Daniel Diomedi
 1. Gabriel Chaperón
 1. Jesús Pérez-Martín 
 1. Ignacio Meza 
