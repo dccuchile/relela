@@ -24,6 +24,8 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 1. Hernán Sarmiento
 2. Aymé Arango
 3. Rolando Kindelan 
+1. Jesús Pérez-Martín
+
 
 ### Masters Students
 1. Pablo Badilla
