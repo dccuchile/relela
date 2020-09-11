@@ -7,7 +7,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 
 
 ## Minutas (In Spanish)
-1. 09/09/2020: Cristian Ahumada presentó su charla de Tesis I de magíster titulada: "Diseño y desarrollo de una infraestructura computacional básica para el aprendizaje del Mapuzugun".
+1. 09/09/2020: Cristian Ahumada presentó su charla de Tesis I de magíster titulada: "Diseño y desarrollo de una infraestructura computacional básica para el aprendizaje del Mapuzugun".([slides](slides/CharlaMapuzugun.pdf))
 1. 12/08/2020: Javier Muñoz presentó su charla de Tesis I de magíster sobre multi-instance multi-label text classification para educación especial.
 1. 05/08/2020: Frank Zamora practiced for his PhD qualification exam. He presented his work on Semantic Change Detection and his survey on word representations.
 1. 20/05/2020: [Gonzalo Mena](https://gomena.github.io/) nos habló sobre "Métodos de estadística computacional y machine learning para las ciencias de la vida, con una aplicación a COVID-19." ([slides](slides/charla_gonzalo_mena.pdf)).
