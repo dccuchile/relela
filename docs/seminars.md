@@ -7,6 +7,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 
 
 ## Minutas (In Spanish)
+1. 02/12/2020: Matías Rojas presentó su charla de Tesis I de magíster sobre nested NER en el Chilean Waiting List Corpus.
 1. 11/11/2020: Cristián Tamblay presentó su trabajo de memoria sobre transferencia de modelos de sentimiento y emoción en distintos dominios.
 1. 23/09/2020: Hernán Sarmiento practicó su charla de propuesta de tesis doctoral titulada: "A Domain-independent and Multilingual Approach for Crisis Event Detection and Understanding"
 1. 09/09/2020: Cristian Ahumada presentó su charla de Tesis I de magíster titulada: "Diseño y desarrollo de una infraestructura computacional básica para el aprendizaje del Mapuzugun".([slides](slides/CharlaMapuzugun.pdf))
