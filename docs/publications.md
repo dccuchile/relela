@@ -14,10 +14,9 @@
 
 5. [The Logical Expressiveness of Graph  Neural Networks](https://users.dcc.uchile.cl/~jperez/papers/iclr2020.pdf) Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter and Juan-Pablo Silva,  ICLR 2020 ([talk](https://iclr.cc/virtual/poster_r1lZ7AEKvB.html), [slides](https://docs.google.com/presentation/d/1CJb-fgqyyUrhDDbAMpHELJSgz7uLAJpgMGNWmWIcmKU/edit), [poster](https://docs.google.com/presentation/d/1PbUkfT0PaOXZfIHPkjZJjYpUAbJFUh0WKWZChziVqK8/edit#slide=id.g6be0ab34c3_0_296))
 
-6.  **[Spanish Pre-Trained BERT Model and Evaluation Data](https://users.dcc.uchile.cl/~jperez/papers/pml4dc2020.pdf)**  Jose Cañete, Gabriel Chaperon, Rodrigo Fuentes, Jou-Hui Ho, Hojin Kang and Jorge Pérez  **PML4DC @ ICLR 2020** ([talk](https://pml4dc.github.io/iclr2020/program/pml4dc_10.html), [slides](https://docs.google.com/presentation/d/17XHKoOTh_GwY4ZziEBH4qWJl8BkJ4P98HXxZAmUwR6g/edit), [code](https://github.com/dccuchile/beto))  
+6.  [Spanish Pre-Trained BERT Model and Evaluation Data](https://users.dcc.uchile.cl/~jperez/papers/pml4dc2020.pdf) Jose Cañete, Gabriel Chaperon, Rodrigo Fuentes, Jou-Hui Ho, Hojin Kang and Jorge Pérez  PML4DC @ ICLR 2020 ([talk](https://pml4dc.github.io/iclr2020/program/pml4dc_10.html), [slides](https://docs.google.com/presentation/d/17XHKoOTh_GwY4ZziEBH4qWJl8BkJ4P98HXxZAmUwR6g/edit), [code](https://github.com/dccuchile/beto))  
 
-7. **[Predicting Unplanned Readmissions with Highly Unstructured Data](https://users.dcc.uchile.cl/~jperez/papers/ai4ah2020.pdf)**  Constanza Fierro, Jorge Pérez, and Javier Mora
-    **AI4AH @ ICLR 2020**
+7. [Predicting Unplanned Readmissions with Highly Unstructured Data](https://users.dcc.uchile.cl/~jperez/papers/ai4ah2020.pdf)  Constanza Fierro, Jorge Pérez, and Javier Mora, AI4AH @ ICLR 2020.
 
 
 
