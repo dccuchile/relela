@@ -7,7 +7,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 
 
 ## Minutas (In Spanish)
-1. 17/12/2020 Jorge Ortíz nos habló sobre la lingüística sístemico funcional y sus potenciales vínculos con NLP. ([slides](https://ortizfuentes.com/wp-content/uploads/2020/12/Ortiz-J.-2020-Charla-El-aporte-de-los-estudios-del-lenguaje.pdf),[video](https://youtu.be/jRWyPl6cb7I))
+1. 17/12/2020 Jorge Ortiz nos habló sobre la lingüística sístemico funcional y sus potenciales vínculos con NLP. ([slides](https://ortizfuentes.com/wp-content/uploads/2020/12/Ortiz-J.-2020-Charla-El-aporte-de-los-estudios-del-lenguaje.pdf),[video](https://youtu.be/jRWyPl6cb7I))
 1. 02/12/2020: Matías Rojas presentó su charla de Tesis I de magíster sobre nested NER en el Chilean Waiting List Corpus.
 1. 11/11/2020: Cristián Tamblay presentó su trabajo de memoria sobre transferencia de modelos de sentimiento y emoción en distintos dominios.
 1. 23/09/2020: Hernán Sarmiento practicó su charla de propuesta de tesis doctoral titulada: "A Domain-independent and Multilingual Approach for Crisis Event Detection and Understanding"
