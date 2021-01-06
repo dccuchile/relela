@@ -7,7 +7,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 
 
 ## Minutas (In Spanish)
-1. 23/12/2020 Bernardo Subercaseaux nos habló de su trabajo de investigación acerca de formalizaciones de interpretabilidad de modelos de aprendizaje automático desde el punto de vista de la complejidad computacional (slides, video)
+1. 23/12/2020 Bernardo Subercaseaux nos habló de su trabajo de investigación acerca de formalizaciones de interpretabilidad de modelos de aprendizaje automático desde el punto de vista de la complejidad computacional (slides, [video](https://youtu.be/7ZfDaFccl-8))
 1. 17/12/2020 Jorge Ortiz nos habló sobre la lingüística sístemico funcional y sus potenciales vínculos con NLP. ([slides](https://ortizfuentes.com/wp-content/uploads/2020/12/Ortiz-J.-2020-Charla-El-aporte-de-los-estudios-del-lenguaje.pdf),[video](https://youtu.be/jRWyPl6cb7I))
 1. 02/12/2020: Matías Rojas presentó su charla de Tesis I de magíster sobre nested NER en el Chilean Waiting List Corpus.
 1. 11/11/2020: Cristián Tamblay presentó su trabajo de memoria sobre transferencia de modelos de sentimiento y emoción en distintos dominios.
