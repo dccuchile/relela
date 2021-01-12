@@ -5,7 +5,7 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 
 # Members
 
-## Core Members
+## Academic Staff
 
 1. [Jorge Pérez](https://users.dcc.uchile.cl/~jperez/)
 2. [Felipe Bravo-Marquez](https://felipebravom.com/)
