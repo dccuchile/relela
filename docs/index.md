@@ -13,6 +13,7 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 3. [Jocelyn Dunstan](https://sites.google.com/view/jdunstan/home)
 1. [Bárbara Poblete](https://www.barbara.cl/)
 1. [Alexandre Bergel](http://bergel.eu/)
+1. [Andrés Abeliuk](https://scholar.google.com/citations?user=qKqH1lcAAAAJ&hl=en&oi=ao)
 1. [Iván Sipirán](http://www.ivan-sipiran.com/)
 1. [Benjamín Bustos](https://users.dcc.uchile.cl/~bebustos/)
 
