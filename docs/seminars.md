@@ -5,6 +5,7 @@ We hold weekly meetings on Wednesdays at 2PM at Auditorio Philippe Frajolet (303
 
 Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOGdoc21nc3BscG9hMXBwaDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
+Some of our seminars are available in our [Playlist](https://youtube.com/playlist?list=PLppKo85eGXiWOuXni-PIyPu7V63RhqbKJ).
 
 ## Minutas (In Spanish)
 1. 06/03/2020 Pablo Badilla presentó su trabajo sobre sesgo en word embeddings.
