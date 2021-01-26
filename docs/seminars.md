@@ -8,6 +8,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 Some of our seminars are available in our [Playlist](https://youtube.com/playlist?list=PLppKo85eGXiWOuXni-PIyPu7V63RhqbKJ).
 
 ## Minutas (In Spanish)
+1. 20/01/2020 Daniel Diomedi presentó su charla de Tesis II sobre Question Answering sobre Wikidata usando Entity Linking and Neural Semantic Parsing.
 1. 13/01/2020 Javier Vera presentó su trabajo sobre Aproximaciones computacionales a la diversidad lingüística de Sudamérica (la charla fue grabada).
 1. 06/01/2020 Pablo Badilla presentó su trabajo sobre sesgo en word embeddings.
 1. 23/12/2020 Bernardo Subercaseaux nos habló de su trabajo de investigación acerca de formalizaciones de interpretabilidad de modelos de aprendizaje automático desde el punto de vista de la complejidad computacional (slides, [video](https://youtu.be/7ZfDaFccl-8))
