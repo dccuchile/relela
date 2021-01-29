@@ -8,9 +8,10 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 Some of our seminars are available in our [Playlist](https://youtube.com/playlist?list=PLppKo85eGXiWOuXni-PIyPu7V63RhqbKJ).
 
 ## Minutas (In Spanish)
-1. 20/01/2020 Daniel Diomedi presentó su charla de Tesis II sobre Question Answering sobre Wikidata usando Entity Linking and Neural Semantic Parsing.
-1. 13/01/2020 Javier Vera presentó su trabajo sobre Aproximaciones computacionales a la diversidad lingüística de Sudamérica (la charla fue grabada).
-1. 06/01/2020 Pablo Badilla presentó su trabajo sobre sesgo en word embeddings.
+1. 29/01/2021 Felipe Bravo dio un tutorial introductorio a la inferencia Bayesiana.
+1. 20/01/2021 Daniel Diomedi presentó su charla de Tesis II sobre Question Answering sobre Wikidata usando Entity Linking and Neural Semantic Parsing.
+1. 13/01/2021 Javier Vera presentó su trabajo sobre Aproximaciones computacionales a la diversidad lingüística de Sudamérica (la charla fue grabada).
+1. 06/01/2021 Pablo Badilla presentó su trabajo sobre sesgo en word embeddings.
 1. 23/12/2020 Bernardo Subercaseaux nos habló de su trabajo de investigación acerca de formalizaciones de interpretabilidad de modelos de aprendizaje automático desde el punto de vista de la complejidad computacional (slides, [video](https://youtu.be/7ZfDaFccl-8))
 1. 17/12/2020 Jorge Ortiz nos habló sobre la lingüística sístemico funcional y sus potenciales vínculos con NLP. ([slides](https://ortizfuentes.com/wp-content/uploads/2020/12/Ortiz-J.-2020-Charla-El-aporte-de-los-estudios-del-lenguaje.pdf),[video](https://youtu.be/jRWyPl6cb7I))
 1. 02/12/2020: Matías Rojas presentó su charla de Tesis I de magíster sobre nested NER en el Chilean Waiting List Corpus.
