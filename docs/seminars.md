@@ -8,6 +8,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 Some of our seminars are available in our [Playlist](https://youtube.com/playlist?list=PLppKo85eGXiWOuXni-PIyPu7V63RhqbKJ).
 
 ## Minutas (In Spanish)
+1. 17/03/2021 Alan Ansell presentó su trabajo sobre PolyLM, un LM polísemico ([video](https://youtu.be/OKD8fvNZVwE))
 1. 29/01/2021 Felipe Bravo dio un tutorial introductorio a la inferencia Bayesiana.
 1. 20/01/2021 Daniel Diomedi presentó su charla de Tesis II sobre Question Answering sobre Wikidata usando Entity Linking and Neural Semantic Parsing.
 1. 13/01/2021 Javier Vera presentó su trabajo sobre Aproximaciones computacionales a la diversidad lingüística de Sudamérica (la charla fue grabada).
