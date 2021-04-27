@@ -3,3 +3,4 @@
 2. [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/)
 3. [BETO: Spanish BERT](https://github.com/dccuchile/beto)
 4. [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io/en/latest/)
+5. [Medical Entity Recognition](https://pln.cmm.uchile.cl/clinical-ner/index.xhtml)
