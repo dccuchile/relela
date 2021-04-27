@@ -8,6 +8,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 Some of our seminars are available in our [Playlist](https://youtube.com/playlist?list=PLppKo85eGXiWOuXni-PIyPu7V63RhqbKJ).
 
 ## Minutas (In Spanish)
+1. 21/04/2021 Cristián Candia (UDD) nos habló sobre su trabajo en "Inteligencia Colectiva".
 1. 14/04/2021 Gastón L'huillier nos habló sobre Machine Learning Engineering, infraestructura y todos los desafíos de poner en modelos en producción. ([slides](slides/Machine_Learning_Engineering_Gaston.pdf))
 1. 24/03/2021 Andrés Abeliuk presentó su línea de investigación en tema de polarización.
 1. 17/03/2021 Alan Ansell presentó su trabajo sobre PolyLM, un LM polísemico ([video](https://youtu.be/OKD8fvNZVwE))
