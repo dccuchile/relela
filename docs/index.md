@@ -28,10 +28,10 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 2. Aymé Arango
 3. Rolando Kindelan 
 1. Jesus Perez-Martin
+2. Frank Zamora
 
 
 ### Masters Students
-1. Pablo Badilla
 1. Daniel Aguirre
 5. Jhonny Cerezo 
 6. Juan-Pablo Silva
@@ -39,6 +39,10 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 1. Mabel Sánchez
 7. Daniel Diomedi
 1. Matías Rojas
+2. Jorge Ortiz
+3. Bastián Matamala
+4. Gabriel Iturra
+5. Mauricio Araneda
 
 ### Undergrad Students
 2. Juan Andrés Moreno 
@@ -52,7 +56,8 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 ### Alumni 
 
 1. Constanza Fierro 
-
+1. Pablo Badilla
+2. Cristián Tamblay
 
 ## Collaborators
 
