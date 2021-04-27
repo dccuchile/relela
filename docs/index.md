@@ -27,7 +27,7 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 1. Hernán Sarmiento
 2. Aymé Arango
 3. Rolando Kindelan 
-1. Jesús Pérez-Martín
+1. Jesus Perez-Martin
 
 
 ### Masters Students
@@ -46,8 +46,7 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 3. Sebastián Donoso 
 6. Vicente Oyanedel 
 7. José Cañete 
-1. Gabriel Chaperón
-1. Jesús Pérez-Martín 
+1. Gabriel Chaperón 
 1. Ignacio Meza 
 
 ### Alumni 
