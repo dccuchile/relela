@@ -1,6 +1,5 @@
 site_name: ReLeLa
 theme: cluster
-repo_url: https://dccuchile.github.io/ReLeLa/
 site_description: REpresentation LEarning + Natural LAnguage Processing Group (ReLeLa)
 nav:
     - Home: index.md
