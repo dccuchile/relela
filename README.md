@@ -6,11 +6,14 @@ Please visit our [website](https://relela.com).
 
 ## Instructions for updating the website
 
-1. Make sure that  mkdocs is installed
+1. Make sure that  mkdocs and the cluster theme are installed
 
 ```bash
 pip install mkdocs 
+pip install mkdocs-cluster
 ```
+
+
 
 2. Modify the files from folder [docs](docs/)
 
