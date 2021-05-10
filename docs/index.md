@@ -66,3 +66,4 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 1. [Mauricio Quezada](https://users.dcc.uchile.cl/~mquezada/)
 1. [Felipe Tobar](http://www.dim.uchile.cl/~ftobar/)
 1. [José Manuel Saavedra](https://impresee.com/ecommerce-labs/)
+1. [Juan Manuel Barrios](https://juan.cl/)
