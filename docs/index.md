@@ -62,8 +62,18 @@ The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research gr
 ## Collaborators
 
 
-
 1. [Mauricio Quezada](https://users.dcc.uchile.cl/~mquezada/)
 1. [Felipe Tobar](http://www.dim.uchile.cl/~ftobar/)
 1. [José Manuel Saavedra](https://impresee.com/ecommerce-labs/)
 1. [Juan Manuel Barrios](https://juan.cl/)
+1. [Mauricio Cerda](http://www.scian.cl)
+
+# Network
+
+Members of our group participate or interact with the following other research groups or centers:
+
+1. [Millennium Institute for Foundational Research on Data](https://imfd.cl/en/)
+1. [Natural Language Processing @ CMM](https://pln.cmm.uchile.cl/grav/en)
+1. [SCIAN-Lab](http://www.scian.cl)
+1. [GAMES CMM](http://games.cmm.uchile.cl/)
+1. [Machine Learning Group at the University of Waikato](https://www.cs.waikato.ac.nz/ml/)
