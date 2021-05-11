@@ -74,6 +74,6 @@ Members of our group participate or interact with the following other research g
 
 1. [Millennium Institute for Foundational Research on Data](https://imfd.cl/en/)
 1. [Natural Language Processing @ CMM](https://pln.cmm.uchile.cl/grav/en)
-1. [SCIAN-Lab](http://www.scian.cl)
-1. [GAMES CMM](http://games.cmm.uchile.cl/)
-1. [Machine Learning Group at the University of Waikato](https://www.cs.waikato.ac.nz/ml/)
+1. [The Laboratory of Scientific Image Analysis (SCIAN-Lab)](http://www.scian.cl)
+1. [Grupo de Aprendizaje de Máquinas, infErencia y Señales (GAMES)](http://games.cmm.uchile.cl/)
+1. [Machine Learning Group - University of Waikato](https://www.cs.waikato.ac.nz/ml/)
