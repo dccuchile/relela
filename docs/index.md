@@ -1,6 +1,6 @@
-<img src="img/RELELA.png" alt="alt text" width="40%" height="40%"> 
+<img src="img/RELELA.png" alt="alt text" width="50%" height="50%"> 
 
-The REpresentation LEarning and natural LAnguage Processing (ReLeLa) research group located within the [Department of Computer Science (DCC)](https://www.dcc.uchile.cl/) at the University of Chile studies the fields of representation learning and natural language processing, as well as other topics related to data science and artificial intelligence.   
+The REpresentation LEarning and Natural LAnguage Processing (ReLeLa) research group located within the [Department of Computer Science (DCC)](https://www.dcc.uchile.cl/) at the University of Chile studies the fields of representation learning and natural language processing, as well as other topics related to data science and artificial intelligence.   
 
 
 # Members
