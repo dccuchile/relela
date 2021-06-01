@@ -31,12 +31,10 @@
 
 
 4. P. Badilla, F. Bravo-Marquez, and J. Pérez [WEFE: The Word Embeddings Fairness Evaluation Framework](https://www.ijcai.org/Proceedings/2020/60) In *Proceedings of the  29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020)*, Yokohama, Japan. Pages 430-436. DOI:10.24963/ijcai.2020/60.  Acceptance rate: 12.6%. ([pdf](https://felipebravom.com/publications/ijcai2020.pdf)),([code](https://wefe.readthedocs.io)). 
-
 5. [The Logical Expressiveness of Graph  Neural Networks](https://users.dcc.uchile.cl/~jperez/papers/iclr2020.pdf) Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter and Juan-Pablo Silva,  ICLR 2020 ([talk](https://iclr.cc/virtual/poster_r1lZ7AEKvB.html), [slides](https://docs.google.com/presentation/d/1CJb-fgqyyUrhDDbAMpHELJSgz7uLAJpgMGNWmWIcmKU/edit), [poster](https://docs.google.com/presentation/d/1PbUkfT0PaOXZfIHPkjZJjYpUAbJFUh0WKWZChziVqK8/edit#slide=id.g6be0ab34c3_0_296))
-
-6.  [Spanish Pre-Trained BERT Model and Evaluation Data](https://users.dcc.uchile.cl/~jperez/papers/pml4dc2020.pdf) Jose Cañete, Gabriel Chaperon, Rodrigo Fuentes, Jou-Hui Ho, Hojin Kang and Jorge Pérez  PML4DC @ ICLR 2020 ([talk](https://pml4dc.github.io/iclr2020/program/pml4dc_10.html), [slides](https://docs.google.com/presentation/d/17XHKoOTh_GwY4ZziEBH4qWJl8BkJ4P98HXxZAmUwR6g/edit), [code](https://github.com/dccuchile/beto))  
-
+6. [Spanish Pre-Trained BERT Model and Evaluation Data](https://users.dcc.uchile.cl/~jperez/papers/pml4dc2020.pdf) Jose Cañete, Gabriel Chaperon, Rodrigo Fuentes, Jou-Hui Ho, Hojin Kang and Jorge Pérez  PML4DC @ ICLR 2020 ([talk](https://pml4dc.github.io/iclr2020/program/pml4dc_10.html), [slides](https://docs.google.com/presentation/d/17XHKoOTh_GwY4ZziEBH4qWJl8BkJ4P98HXxZAmUwR6g/edit), [code](https://github.com/dccuchile/beto))  
 7. [Predicting Unplanned Readmissions with Highly Unstructured Data](https://users.dcc.uchile.cl/~jperez/papers/ai4ah2020.pdf)  Constanza Fierro, Jorge Pérez, and Javier Mora, AI4AH @ ICLR 2020.
+8. [Jesus Perez-Martin](https://dblp.uni-trier.de/pid/258/1042.html), [Benjamin Bustos](https://dblp.uni-trier.de/pid/15/5056.html), Jorge Pérez: Attentive Visual Semantic Specialized Network for Video Captioning. [ICPR 2020](https://dblp.uni-trier.de/db/conf/icpr/icpr2020.html#Perez-MartinB020): 5767-5774
 
 
 
