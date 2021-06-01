@@ -1,8 +1,21 @@
+## 2021
+
+
+1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://link.springer.com/article/10.1007/s12559-021-09831-y). In *Cognitive Computation*, 2021. DOI:10.1007/s12559-021-09831-y ([pdf](https://felipebravom.com/publications/COGN2021.pdf))
+2. F. Tobar, F. Bravo-Marquez, J. Dunstan, J. Fontbona, A. Maass, and D. Remenik, and J.F. Silva [Data Science for Engineers: A Teaching Ecosystem](https://ieeexplore.ieee.org/document/9418568). In *IEEE Signal Processing Magazine*, Volume 38, Issue 3, May 2021. Pages 144-153. DOI:10.1109/MSP.2021.3053551  ([pdf](https://felipebravom.com/publications/SPM2021.pdf))
+3. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://www.aclweb.org/anthology/2021.eacl-main.45/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. Pages 563–574. ([pdf](https://felipebravom.com/publications/eacl2021.pdf)),([code](https://github.com/AlanAnsell/PolyLM)).
+4. J. Cerezo, A. Bergel, and F. Bravo-Marquez  [Tools Impact on the Quality of Annotations for Chat Untangling](https://sites.google.com/view/acl-ijcnlp-2021-srw/). In *Proceedings of the 2021 ACL-IJCNLP Student Research Workshop (SRW)*, Bangkok, Thailand. ([pdf](https://felipebravom.com/publications/ACLSRW2021.pdf))
+5. J. Muñoz and F. Bravo-Marquez  [Interventions Recommendation: Professionals’ Observations Analysis in Special Needs Education](https://www.aclweb.org/anthology/2021.bea-1.18/). In *Proceedings of the 16th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2021)*, Co-located with EACL 2021, Kyiv, Ukraine. Pages 171-179 ([pdf](https://felipebravom.com/publications/BEA2021.pdf)),([code](https://github.com/dccuchile/SNEC)).
+
+
 
 ## 2020
 
 
+
+
 1. P. Báez, F. Villena, M. Rojas, M. Durán, and J. Dunstan [The Chilean Waiting List Corpus: a new resource for clinical Named Entity Recognition in Spanish](https://www.aclweb.org/anthology/2020.clinicalnlp-1.32/), In *Proceedings of the 3rd Clinical Natural Language Processing Workshop*, November, 291-300, 2020. DOI:10.18653/v1/2020.clinicalnlp-1.32 ([pdf](https://www.aclweb.org/anthology/2020.clinicalnlp-1.32.pdf))
+2. **[Model Interpretability through the Lens of Computational Complexity](https://users.dcc.uchile.cl/~jperez/papers/neurips2020.pdf)**  Pablo Barceló, Mikael Monet, Jorge Pérez, Bernardo Subercaseaux  **NeurIPS 2020** 
 
 
 2. J. Diaz, B. Poblete, and F. Bravo-Marquez [An Integrated Model for Textual Social Media Data with Spatio-Temporal Dimensions](https://www.sciencedirect.com/science/article/pii/S0306457319308738), In *Information Processing & Management*, Volume 57, Issue 5, 2020. DOI:10.1016/j.ipm.2020.102219 ([pdf](https://felipebravom.com/publications/ipm2020.pdf))
@@ -35,5 +48,4 @@
 6. D. Trye, A. S. Calude, F. Bravo-Marquez,  and T. T Keegan [Māori Loanwords: A Corpus of New Zealand English Tweets](https://www.aclweb.org/anthology/papers/P/P19/P19-2018/). In *Proceedings of the 2019 ACL Student Research Workshop* (SRW), Florence, Italy. ([pdf](https://felipebravom.com/publications/loanwords2019.pdf))
 
 7. F. Villena and J. Dunstan [Obtención automática de palabras clave en textos clínicos: una aplicación de procesamiento del lenguaje natural a datos masivos de sospecha diagnóstica en Chile](https://scielo.conicyt.cl/scielo.php?pid=S0034-98872019001001229&script=sci_arttext). In *Revista médica de Chile*, Volume 147, 2019. DOI:http://dx.doi.org/10.4067/s0034-98872019001001229 ([pdf](https://scielo.conicyt.cl/pdf/rmc/v147n10/0717-6163-rmc-147-10-1229.pdf))
-
 
