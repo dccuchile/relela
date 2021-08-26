@@ -8,6 +8,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 Some of our seminars are available in our [Playlist](https://youtube.com/playlist?list=PLppKo85eGXiWOuXni-PIyPu7V63RhqbKJ).
 
 ## Minutas (In Spanish)
+1. 07/07/2021 Los alumno de magíster Bastián Matamala, Mauricio Araneda y Gabriel Iturra presentaron sus charlas de Tesis I.
 1. 05/05/2021  Carolina Chiu habló sobre el testeo de word embeddings en el contexto clínico. 
 1. 21/04/2021 [Cristián Candia](https://crcandia.github.io/crcandiav/) (UDD) nos habló sobre su trabajo en "Inteligencia Colectiva".
 1. 14/04/2021 Gastón L'huillier nos habló sobre Machine Learning Engineering, infraestructura y todos los desafíos de poner en modelos en producción. ([slides](slides/Machine_Learning_Engineering_Gaston.pdf))
