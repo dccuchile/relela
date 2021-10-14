@@ -70,9 +70,10 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 
 # Network
 
-Members of our group participate or interact with the following other research groups or centers:
+Members of our group participate or interact with the following other research groups, centers or companies:
 
 1. [Millennium Institute for Foundational Research on Data](https://imfd.cl/en/)
+1. [CERO.AI](https://www.cero.ai/)
 1. [Natural Language Processing @ CMM](https://pln.cmm.uchile.cl/grav/en)
 1. [The Laboratory of Scientific Image Analysis (SCIAN-Lab)](http://www.scian.cl)
 1. [Grupo de Aprendizaje de Máquinas, infErencia y Señales (GAMES)](http://games.cmm.uchile.cl/)
