@@ -8,6 +8,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 Some of our seminars are available in our [Playlist](https://youtube.com/playlist?list=PLppKo85eGXiWOuXni-PIyPu7V63RhqbKJ).
 
 ## Minutas (In Spanish)
+1. 19/11/21 Javier Muñoz presentó su trabajo de tesis de magíster: "Aprendizaje multi-instancia multi-etiqueta en la recomendación de intervenciones"
 1. 29/09/2021 Cristian Ahumada presentó su trabajo: "Diseño y desarrollo de un software de apoyo para el aprendizaje del Mapuzugun"
 1. 22/09/2021 Mauricio Araneda presentó un tutorial sobre VAEs. ([slides](slides/understanding_variational_encoders.pdf))
 1. 01/09/2021 Pablo Badilla nos habló sobre su trabajo en el proyecto "lxs 400 "
