@@ -8,11 +8,12 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 Some of our seminars are available in our [Playlist](https://youtube.com/playlist?list=PLppKo85eGXiWOuXni-PIyPu7V63RhqbKJ).
 
 ## Minutas (In Spanish)
-1. 19/11/21 Javier Muñoz presentó su trabajo de tesis de magíster: "Aprendizaje multi-instancia multi-etiqueta en la recomendación de intervenciones"
+1. 01/12/2021 Los alumnos de magíster Humberto Rodrigues y David Rojas presentaron sus charlas de Tesis I tituladas "Exploring bias metric strategies in contextualized embeddings" y "Word Embedding Bias Origin Detection".
+1. 19/11/2021 Javier Muñoz presentó su trabajo de tesis de magíster: "Aprendizaje multi-instancia multi-etiqueta en la recomendación de intervenciones"
 1. 29/09/2021 Cristian Ahumada presentó su trabajo: "Diseño y desarrollo de un software de apoyo para el aprendizaje del Mapuzugun"
 1. 22/09/2021 Mauricio Araneda presentó un tutorial sobre VAEs. ([slides](slides/understanding_variational_encoders.pdf))
 1. 01/09/2021 Pablo Badilla nos habló sobre su trabajo en el proyecto "lxs 400 "
-1. 07/07/2021 Los alumno de magíster Bastián Matamala, Mauricio Araneda y Gabriel Iturra presentaron sus charlas de Tesis I.
+1. 07/07/2021 Los alumnos de magíster Bastián Matamala, Mauricio Araneda y Gabriel Iturra presentaron sus charlas de Tesis I.
 1. 05/05/2021  Carolina Chiu habló sobre el testeo de word embeddings en el contexto clínico. 
 1. 21/04/2021 [Cristián Candia](https://crcandia.github.io/crcandiav/) (UDD) nos habló sobre su trabajo en "Inteligencia Colectiva".
 1. 14/04/2021 Gastón L'huillier nos habló sobre Machine Learning Engineering, infraestructura y todos los desafíos de poner en modelos en producción. ([slides](slides/Machine_Learning_Engineering_Gaston.pdf))
