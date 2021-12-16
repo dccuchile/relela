@@ -22,8 +22,6 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 
 ### PhD Students
 2. Juglar Díaz
-1. Henry Rosales 
-1. Camilo Garrido
 1. Hernán Sarmiento
 2. Aymé Arango
 3. Rolando Kindelan 
@@ -58,6 +56,8 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 1. Constanza Fierro 
 1. Pablo Badilla
 2. Cristián Tamblay
+4. Henry Rosales 
+5. Camilo Garrido
 
 ## Collaborators
 
@@ -72,6 +72,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 
 Members of our group participate or interact with the following other research groups, centers or companies:
 
+1. [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl/)
 1. [Millennium Institute for Foundational Research on Data](https://imfd.cl/en/)
 1. [CERO.AI](https://www.cero.ai/)
 1. [Natural Language Processing @ CMM](https://pln.cmm.uchile.cl/grav/en)
