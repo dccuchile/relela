@@ -7,15 +7,14 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 
 ## Academic Staff
 
-1. [Jorge Pérez](https://users.dcc.uchile.cl/~jperez/)
+2. [Jorge Pérez](https://users.dcc.uchile.cl/~jperez/)
 2. [Felipe Bravo-Marquez](https://felipebravom.com/)
-3. [Claudio Gutiérrez](https://users.dcc.uchile.cl/~cgutierr/)
 3. [Jocelyn Dunstan](https://sites.google.com/view/jdunstan/home)
-1. [Bárbara Poblete](https://www.barbara.cl/)
-1. [Alexandre Bergel](http://bergel.eu/)
-1. [Andrés Abeliuk](https://scholar.google.com/citations?user=qKqH1lcAAAAJ&hl=en&oi=ao)
-1. [Iván Sipirán](http://www.ivan-sipiran.com/)
-1. [Benjamín Bustos](https://users.dcc.uchile.cl/~bebustos/)
+4. [Claudio Gutiérrez](https://users.dcc.uchile.cl/~cgutierr/)
+5. [Bárbara Poblete](https://www.barbara.cl/)
+6. [Andrés Abeliuk](https://scholar.google.com/citations?user=qKqH1lcAAAAJ&hl=en&oi=ao)
+7. [Iván Sipirán](http://www.ivan-sipiran.com/)
+8. [Benjamín Bustos](https://users.dcc.uchile.cl/~bebustos/)
 
 
 ## Students
@@ -34,30 +33,29 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 5. Jhonny Cerezo 
 6. Juan-Pablo Silva
 1. Cristián Ahumada 
-1. Mabel Sánchez
-7. Daniel Diomedi
+5. Mabel Sánchez
 1. Matías Rojas
 2. Jorge Ortiz
 3. Bastián Matamala
 4. Gabriel Iturra
 5. Mauricio Araneda
+11. José Cañete 
+12. Gabriel Chaperón 
 
 ### Undergrad Students
 2. Juan Andrés Moreno 
-3. Víctor Caro 
 3. Sebastián Donoso 
-6. Vicente Oyanedel 
-7. José Cañete 
-1. Gabriel Chaperón 
+4. Vicente Oyanedel 
 1. Ignacio Meza 
 
 ### Alumni 
 
 1. Constanza Fierro 
-1. Pablo Badilla
-2. Cristián Tamblay
-4. Henry Rosales 
-5. Camilo Garrido
+2. Daniel Diomedi
+3. Pablo Badilla
+4. Cristián Tamblay
+5. Henry Rosales 
+6. Camilo Garrido
 
 ## Collaborators
 
@@ -67,6 +65,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 1. [José Manuel Saavedra](https://impresee.com/ecommerce-labs/)
 1. [Juan Manuel Barrios](https://juan.cl/)
 1. [Mauricio Cerda](http://www.scian.cl)
+1. [Alexandre Bergel](http://bergel.eu/)
 
 # Network
 
@@ -80,3 +79,52 @@ Members of our group participate or interact with the following other research g
 1. [Grupo de Aprendizaje de Máquinas, infErencia y Señales (GAMES)](http://games.cmm.uchile.cl/)
 1. [Machine Learning Group - University of Waikato](https://www.cs.waikato.ac.nz/ml/)
 1. [Impresee eCommerce Labs](https://impresee.com/ecommerce-labs/)
+
+
+
+# Computing Resources
+
+We count with the following GPU-equipped machines:
+
+1. RELELA-01
+
+    * CPU: Intel Core i7-9700F
+
+    * RAM:  128 GB DDR4
+
+    * HDD1: 500GB  Crucial P2 PCIe M.2 NVME
+
+    * HDD2: 480GB  WDC WDS480G2G0B M.2 SATA3
+
+    * GPU0: GeForce RTX 2080 8GB
+
+    * GPU1: GeForce RTX 3090 24GB
+
+    * GPU2: GeForce RTX 2080 8GB
+
+      
+
+2. RELELA-02
+
+  * CPU: Intel Core i7-11700K
+
+  * RAM:  32 GB DDR4
+
+  * HDD1: 500GB  Crucial P2 PCIe M.2 NVME
+
+  * GPU0: GeForce RTX 3090 24GB
+
+  * GPU1: GeForce RTX 3090 24GB
+
+    
+
+3. RAFIKE
+
+    * CPU:  AMD Ryzen 7 1800X
+    * RAM:  96GB
+    * HDD1: 1TB  Samsung SSD 970 EVO
+    * HDD2: 2TB  Crucial CT2050MX
+    * HDD3: 2TB  WD WDS200T2B0A
+    * GPU0: NVIDIA GeForce RTX 3090 24GB
+    * GPU1: NVIDIA GeForce RTX 3090 24GB
+
