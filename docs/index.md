@@ -15,6 +15,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 6. [Andrés Abeliuk](https://scholar.google.com/citations?user=qKqH1lcAAAAJ&hl=en&oi=ao)
 7. [Iván Sipirán](http://www.ivan-sipiran.com/)
 8. [Benjamín Bustos](https://users.dcc.uchile.cl/~bebustos/)
+10. [Ricardo Baeza-Yates](https://users.dcc.uchile.cl/~rbaeza/)
 
 
 ## Students
@@ -26,36 +27,43 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 3. Rolando Kindelan 
 1. Jesus Perez-Martin
 2. Frank Zamora
+8. Mabel Sánchez
+9. Ricardo Córdova
+10. Fabián Villena
 
 
 ### Masters Students
 1. Daniel Aguirre
-5. Jhonny Cerezo 
 6. Juan-Pablo Silva
-1. Cristián Ahumada 
-5. Mabel Sánchez
-1. Matías Rojas
 2. Jorge Ortiz
 3. Bastián Matamala
 4. Gabriel Iturra
 5. Mauricio Araneda
 11. José Cañete 
 12. Gabriel Chaperón 
+9. Ignacio Meza 
+10. María José Zambrano
+11. Humberto Rodrigues
+12. David Rojas
+13. Ignacio Núñez
 
 ### Undergrad Students
-2. Juan Andrés Moreno 
-3. Sebastián Donoso 
-4. Vicente Oyanedel 
-1. Ignacio Meza 
+1. Juan Andrés Moreno 
+2. Sebastián Donoso
+3. Vicente Oyanedel
+4. Maximiliano Aguilar
+5. Rodrigo Urrea
 
 ### Alumni 
 
-1. Constanza Fierro 
-2. Daniel Diomedi
-3. Pablo Badilla
-4. Cristián Tamblay
-5. Henry Rosales 
-6. Camilo Garrido
+1. Matías Rojas
+2. Cristián Ahumada 
+3. Constanza Fierro 
+4. Daniel Diomedi
+5. Pablo Badilla
+6. Cristián Tamblay
+7. Henry Rosales 
+8. Camilo Garrido
 
 ## Collaborators
 
@@ -67,6 +75,27 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 1. [Juan Manuel Barrios](https://juan.cl/)
 1. [Mauricio Cerda](http://www.scian.cl)
 1. [Alexandre Bergel](http://bergel.eu/)
+
+
+# Projects
+
+1. [Spanish Word Embeddings](https://github.com/dccuchile/spanish-word-embeddings)
+2. [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/)
+3. [BETO: Spanish BERT](https://github.com/dccuchile/beto)
+4. [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io/en/latest/)
+
+
+
+# Courses
+
+
+
+1. [Deep Learning](https://github.com/dccuchile/CC6204)
+2. [Natural Language Processing](https://github.com/dccuchile/CC6205)
+3. [Data Mining](https://github.com/dccuchile/CC5206/)
+4. [Statistical Thinking](https://github.com/dccuchile/CC6104)
+
+
 
 # Network
 
@@ -83,5 +112,5 @@ Members of our group participate or interact with the following other research g
 
 
 
-# 
+
 

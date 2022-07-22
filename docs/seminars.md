@@ -8,6 +8,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 Some of our seminars are available in our [Playlist](https://youtube.com/playlist?list=PLppKo85eGXiWOuXni-PIyPu7V63RhqbKJ).
 
 ## Minutas (In Spanish)
+1. 22/07/2022 Mauricio Araneda presentó su charla de Tesis II de magíster titulada: "Computers making music? Measuring current progress with MUSIB evaluation".
 1. 13/07/2022 Se presentaron 3 charlas de Tesis I de magíster, 1) José Espina: Marco de trabajo de calibración rápida de confianza, en toma de decisiones asistidas por IA, 2) Alfonso Valderrama : Entropía de Shannon como medida de predictibilidad de sistemas de recomendación, 3)Ignacio Nuñez: Defining an extensible architecture for a multi-task GUI-oriented Machine Learning software.  
 1. 22/06/2022 [Juan Pablo Silva](https://jpsilva.cl/) presentó su charla de Tesis II de magíster titulada: "Logic-based interpretability of Graph Neural Networks"
 1. 28/04/2022 [Miguel Cordero](https://orcid.org/0000-0003-4414-4447) del Servicio de Salud Metropolitano Sur Oriente de Santiago de Chile, nos presentó "Tendencias de la salud mental en los primeros 20 años de vida de usuarios/as de servicios de salud en el sur oriente de Santiago: ¿qué podemos aprender de las notas medicas?" 
