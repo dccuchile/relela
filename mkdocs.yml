@@ -1,6 +1,6 @@
 site_name: ReLeLa
 theme: cluster
-site_description: Representations for Learning and Language (ReLeLa) research group 
+site_description: Representations for Learning and Language (ReLeLa) research group. 
 nav:
     - Home: index.md
     - Seminars: seminars.md
