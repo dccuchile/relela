@@ -1,7 +1,7 @@
-
 ## 2022
 
-1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://link.springer.com/article/10.1007/s12559-021-09831-y). In *Cognitive Computation*, 2022. DOI:10.1007/s12559-021-09831-y ([pdf](https://felipebravom.com/publications/COGN2021.pdf))
+
+
 2. P. Baéz, F. Bravo-Marquez, J. Dunstan, M. Rojas, and F. Villena [Automatic Extraction of Nested Entities in Clinical Referrals in Spanish](https://dl.acm.org/doi/10.1145/3498324). In *ACM Transactions on Computing for Healthcare (HEALTH)*, Volume 3, Issue 3, July 2022. Pages 1–22. DOI:10.1145/3498324 ([pdf](https://felipebravom.com/publications/ACMTCH2021.pdf))
 3. J. Diaz, F. Bravo-Marquez and B. Poblete, [Language Modeling on Location-Based Social Networks](https://www.mdpi.com/2220-9964/11/2/147). In *ISPRS International Journal of Geo-Information* , Volume 11, Number 2, Article Number 147, February 2022. DOI: 10.3390/ijgi11020147 ([pdf](https://felipebravom.com/publications/IJGI2022.pdf)) 
 4. F. Bravo-Marquez and C. Tamblay [Words, Tweets and Reviews: Leveraging Affective Knowledge Between Multiple Domains](https://link.springer.com/article/10.1007/s12559-021-09923-9). In *Cognitive Computation*, Volume 14, January 2022. Pages 388-406.  DOI: 10.1007/s12559-021-09923-9 ([pdf](https://felipebravom.com/publications/COGN2021b.pdf))
