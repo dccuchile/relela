@@ -7,16 +7,18 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 
 ## Academic Staff
 
-2. [Jorge Pérez](https://users.dcc.uchile.cl/~jperez/)
-2. [Felipe Bravo-Marquez](https://felipebravom.com/)
-3. [Jocelyn Dunstan](https://sites.google.com/view/jdunstan/home)
-4. [Claudio Gutiérrez](https://users.dcc.uchile.cl/~cgutierr/)
-5. [Bárbara Poblete](https://www.barbara.cl/)
-6. [Andrés Abeliuk](https://scholar.google.com/citations?user=qKqH1lcAAAAJ&hl=en&oi=ao)
-7. [Iván Sipirán](http://www.ivan-sipiran.com/)
-8. [Benjamín Bustos](https://users.dcc.uchile.cl/~bebustos/)
-9. [Eduardo Graells-Garrido](http://datagramas.cl/)
-10. [Ricardo Baeza-Yates](https://users.dcc.uchile.cl/~rbaeza/)
+1. [Andrés Abeliuk](https://scholar.google.com/citations?user=qKqH1lcAAAAJ&hl=en&oi=ao)
+2. [Ricardo Baeza-Yates](https://users.dcc.uchile.cl/~rbaeza/)
+3. [Felipe Bravo-Marquez](https://felipebravom.com/)
+4. [Benjamín Bustos](https://users.dcc.uchile.cl/~bebustos/)
+5. [Jocelyn Dunstan](https://sites.google.com/view/jdunstan/home)
+6. [Eduardo Graells-Garrido](http://datagramas.cl/)
+7. [Claudio Gutiérrez](https://users.dcc.uchile.cl/~cgutierr/)
+8. [Jorge Pérez](https://users.dcc.uchile.cl/~jperez/)
+9. [Bárbara Poblete](https://www.barbara.cl/)
+10. [Iván Sipirán](http://www.ivan-sipiran.com/)
+
+
 
 
 ## Students
