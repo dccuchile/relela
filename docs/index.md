@@ -15,6 +15,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 6. [Andrés Abeliuk](https://scholar.google.com/citations?user=qKqH1lcAAAAJ&hl=en&oi=ao)
 7. [Iván Sipirán](http://www.ivan-sipiran.com/)
 8. [Benjamín Bustos](https://users.dcc.uchile.cl/~bebustos/)
+9. [Eduardo Graells-Garrido](http://datagramas.cl/)
 10. [Ricardo Baeza-Yates](https://users.dcc.uchile.cl/~rbaeza/)
 
 
