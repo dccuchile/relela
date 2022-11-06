@@ -13,7 +13,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 1. 22/06/2022 [Juan Pablo Silva](https://jpsilva.cl/) presentó su charla de Tesis II de magíster titulada: "Logic-based interpretability of Graph Neural Networks"
 1. 28/04/2022 [Miguel Cordero](https://orcid.org/0000-0003-4414-4447) del Servicio de Salud Metropolitano Sur Oriente de Santiago de Chile, nos presentó "Tendencias de la salud mental en los primeros 20 años de vida de usuarios/as de servicios de salud en el sur oriente de Santiago: ¿qué podemos aprender de las notas medicas?" 
 1. 05/01/2022 Rolando Kindelan nos dió una charla titulado "Análisis Topológico de Datos (TDA): antecedentes, actualidad y perspectivas"
-1. 22/12/2021 El alumno de magíster José Cañete presentó su charla de tesis I: "Efficient models for Spanish NLP through Knowledge Distillation"
+1. 22/12/2021 El alumno de magíster [José Cañete](https://josecannete.github.io/) presentó su charla de tesis I: "Efficient models for Spanish NLP through Knowledge Distillation" ([video](https://youtu.be/qybe09fGcuA))
 1. 15/12/2021 El alumno de magíster Matías Rojas presentó su charla de tesis II titulada: Nested named entity recognition in diagnoses from the Chilean Waiting List in public hospitals  ([slides](slides/matiasrojastesisII.pdf))
 1. 01/12/2021 Los alumnos de magíster Humberto Rodrigues y David Rojas presentaron sus charlas de Tesis I tituladas "Exploring bias metric strategies in contextualized embeddings" y "Word Embedding Bias Origin Detection".
 1. 19/11/2021 Javier Muñoz presentó su trabajo de tesis de magíster: "Aprendizaje multi-instancia multi-etiqueta en la recomendación de intervenciones"
