@@ -15,8 +15,9 @@ We count with the following GPU-equipped machines:
 ### RELELA-02
 
    * CPU: Intel Core i7-11700K
-   * RAM:  32 GB DDR4
+   * RAM:  128 GB DDR4
    * HDD1: 500GB  Crucial P2 PCIe M.2 NVME
+   * HDD2: 2TB  Kingston NV1 PCIe M.2 NVME
    * GPU0: GeForce RTX 3090 24GB
    * GPU1: GeForce RTX 3090 24GB
 

@@ -70,6 +70,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 
 ## Collaborators
 
+1. [Valentin Barriere](https://scholar.google.fr/citations?user=5HX-EfcAAAAJ&hl=fr)
 1. [Cristian Rodriguez](https://crodriguezo.github.io)
 1. [Edison Marrese-Taylor](https://epochx.github.io)
 1. [Mauricio Quezada](https://users.dcc.uchile.cl/~mquezada/)
