@@ -42,7 +42,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 3. Bastián Matamala
 4. Gabriel Iturra
 5. Mauricio Araneda
-11. José Cañete 
+11. [José Cañete](https://josecannete.github.io/) 
 12. Gabriel Chaperón 
 9. Ignacio Meza 
 10. María José Zambrano
@@ -87,6 +87,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 2. [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/)
 3. [BETO: Spanish BERT](https://github.com/dccuchile/beto)
 4. [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io/en/latest/)
+5. [ALBETO and DistilBETO: Lightweight Spanish Language Models](https://github.com/OpenCENIA/lightweight-spanish-language-models)
 
 
 
