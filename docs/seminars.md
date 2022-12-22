@@ -8,10 +8,10 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 Some of our seminars are available in our [Playlist](https://youtube.com/playlist?list=PLppKo85eGXiWOuXni-PIyPu7V63RhqbKJ).
 
 ## Minutas (In Spanish)
-1. 21/12/2022 Se presentaron 2 charlas de Tesis I de magíster, 1) Clemente Henríquez: Evolution of topic and issues in Chilean news, 2) Ignacio Meza: Benchmarking video action features for the video temporary sentence grounding task. 
+1. 21/12/2022 Se presentaron 2 charlas de Tesis I de magíster, 1) Clemente Henríquez: Evolution of topic and issues in Chilean news, 2) Ignacio Meza: Benchmarking video action features for the video temporary sentence grounding task ([slides](slides/Benchmarking_video_action_features_for_the_video_temporary_sentence.pdf)). 
 1. 14/12/2022 Jorge Ortiz presentó su charla de Tesis I de magíster titulada: "Attitude Analysis: a linguistic-based task for detailed position detection
-   in texts"  ([slides](slides/2022-12-14 Jorge Ortiz.pdf))
-1. 07/12/2022 María José Zambrano presentó su charla de Tesis I de magíster titulada: "Comparison and Improvement of Bias Mitigation Algorithms for Word Embeddings"  ([slides](slides/2012-12-07 María José Zambrano.pdf))
+   in texts"  ([slides](slides/2022-12-14 Jorge Ortiz.pdf)).
+1. 07/12/2022 María José Zambrano presentó su charla de Tesis I de magíster titulada: "Comparison and Improvement of Bias Mitigation Algorithms for Word Embeddings"  ([slides](slides/2012-12-07 María José Zambrano.pdf)).
 1. 22/07/2022 Mauricio Araneda presentó su charla de Tesis II de magíster titulada: "Computers making music? Measuring current progress with MUSIB evaluation".
 1. 13/07/2022 Se presentaron 3 charlas de Tesis I de magíster, 1) José Espina: Marco de trabajo de calibración rápida de confianza, en toma de decisiones asistidas por IA, 2) Alfonso Valderrama : Entropía de Shannon como medida de predictibilidad de sistemas de recomendación, 3)Ignacio Nuñez: Defining an extensible architecture for a multi-task GUI-oriented Machine Learning software.  
 1. 22/06/2022 [Juan Pablo Silva](https://jpsilva.cl/) presentó su charla de Tesis II de magíster titulada: "Logic-based interpretability of Graph Neural Networks"
