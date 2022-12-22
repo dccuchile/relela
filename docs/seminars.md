@@ -8,7 +8,7 @@ Our meeting's [calendar](https://calendar.google.com/calendar?cid=a2RodGsyMzZoOG
 Some of our seminars are available in our [Playlist](https://youtube.com/playlist?list=PLppKo85eGXiWOuXni-PIyPu7V63RhqbKJ).
 
 ## Minutas (In Spanish)
-1. 21/12/2022 Se presentaron 2 charlas de Tesis I de magíster, 1) Clemente Henríquez: Evolution of topic and issues in Chilean news, 2) Ignacio Meza: Benchmarking video action features for the video temporary sentence grounding task ([slides](slides/Benchmarking_video_action_features_for_the_video_temporary_sentence.pdf)). 
+1. 21/12/2022 Se presentaron 2 charlas de Tesis I de magíster, 1) Clemente Henríquez: Evolution of topic and issues in Chilean news ([slides](slides/presentacion.pdf)), 2) Ignacio Meza: Benchmarking video action features for the video temporary sentence grounding task ([slides](slides/Benchmarking_video_action_features_for_the_video_temporary_sentence.pdf)). 
 1. 14/12/2022 Jorge Ortiz presentó su charla de Tesis I de magíster titulada: "Attitude Analysis: a linguistic-based task for detailed position detection
    in texts"  ([slides](slides/2022-12-14 Jorge Ortiz.pdf)).
 1. 07/12/2022 María José Zambrano presentó su charla de Tesis I de magíster titulada: "Comparison and Improvement of Bias Mitigation Algorithms for Word Embeddings"  ([slides](slides/2012-12-07 María José Zambrano.pdf)).
@@ -17,7 +17,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 1. 22/06/2022 [Juan Pablo Silva](https://jpsilva.cl/) presentó su charla de Tesis II de magíster titulada: "Logic-based interpretability of Graph Neural Networks"
 1. 28/04/2022 [Miguel Cordero](https://orcid.org/0000-0003-4414-4447) del Servicio de Salud Metropolitano Sur Oriente de Santiago de Chile, nos presentó "Tendencias de la salud mental en los primeros 20 años de vida de usuarios/as de servicios de salud en el sur oriente de Santiago: ¿qué podemos aprender de las notas medicas?" 
 1. 05/01/2022 Rolando Kindelan nos dió una charla titulado "Análisis Topológico de Datos (TDA): antecedentes, actualidad y perspectivas"
-1. 22/12/2021 El alumno de magíster [José Cañete](https://josecannete.github.io/) presentó su charla de tesis I: "Efficient models for Spanish NLP through Knowledge Distillation" ([video](https://youtu.be/qybe09fGcuA))
+1. 22/12/2021 El alumno de magíster [José Cañete](https://josecannete.github.io/) presentó su charla de tesis I: "Efficient models for Spanish NLP through Knowledge Distillation" ([slides](https://docs.google.com/presentation/d/1Nmo2o0Ey-LEc8d5zBklePvO8oXM3tRrlr2oc5s4oti0/edit?usp=sharing))([video](https://youtu.be/qybe09fGcuA))
 1. 15/12/2021 El alumno de magíster Matías Rojas presentó su charla de tesis II titulada: Nested named entity recognition in diagnoses from the Chilean Waiting List in public hospitals  ([slides](slides/matiasrojastesisII.pdf))
 1. 01/12/2021 Los alumnos de magíster Humberto Rodrigues y David Rojas presentaron sus charlas de Tesis I tituladas "Exploring bias metric strategies in contextualized embeddings" y "Word Embedding Bias Origin Detection".
 1. 19/11/2021 Javier Muñoz presentó su trabajo de tesis de magíster: "Aprendizaje multi-instancia multi-etiqueta en la recomendación de intervenciones"
