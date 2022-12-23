@@ -23,12 +23,12 @@ We count with the following GPU-equipped machines:
 
      
 
-### RAFIKE
+### RELELA-03
 
-   * CPU:  AMD Ryzen 7 1800X
-   * RAM:  96GB
-   * HDD1: 1TB  Samsung SSD 970 EVO
-   * HDD2: 2TB  Crucial CT2050MX
-   * HDD3: 2TB  WD WDS200T2B0A
-   * GPU0: NVIDIA GeForce RTX 3090 24GB
-   * GPU1: NVIDIA GeForce RTX 3090 24GB
+   * CPU  : Intel i7-11700K
+   * RAM  : 128 GB DDR4
+   * HDD1 : 960GB NVME
+   * HDD2 : 2TB SATA3 SSD
+   * HDD2 : 2TB SATA3 SSD
+   * GPU0: GeForce RTX 3090 24GB
+   * GPU1: GeForce RTX 3090 24GB
