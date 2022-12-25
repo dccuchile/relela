@@ -40,7 +40,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 6. Juan-Pablo Silva
 2. Jorge Ortiz
 3. Bastián Matamala
-4. Gabriel Iturra
+4. [Gabriel Iturra](https://giturra.github.io)
 5. Mauricio Araneda
 11. [José Cañete](https://josecannete.github.io/) 
 12. Gabriel Chaperón 
