@@ -13,6 +13,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
       * Profesores de ReLeLa incorporarán a sus estudiantes.
       * Presentación periodica de papers (semanal).
       * Definir roles en el grupo.
+      
 3. 21/12/2022 Se presentaron 2 charlas de Tesis I de magíster, 1) Clemente Henríquez: Evolution of topic and issues in Chilean news ([slides](slides/presentacion.pdf)), 2) Ignacio Meza: Benchmarking video action features for the video temporary sentence grounding task ([slides](slides/Benchmarking_video_action_features_for_the_video_temporary_sentence.pdf)).
 4. 14/12/2022 Jorge Ortiz presentó su charla de Tesis I de magíster titulada: "Attitude Analysis: a linguistic-based task for detailed position detection
    in texts"  ([slides](slides/2022-12-14 Jorge Ortiz.pdf)).
