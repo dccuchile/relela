@@ -7,13 +7,14 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 ## Minutas (In Spanish)
 
 1. 11/01/2023 Mircea Petrache presentó su seminario titulada: Word embeddings analogies and paraphrases: proofs and open problems ([slides](slides/2023-11-01MirceaPetrocha.pdf)).
+
 2. 04/01/2023 Se realizo una reunión de coordinación para futuras actividades Relela, donde se tomaron los siguientes acuerdos:
 
       * Evento con presentaciones relámpagos sobre el tema que cada uno trabaja (2 minutos de presentación con 1 diapositiva).
       * Profesores de ReLeLa incorporarán a sus estudiantes.
       * Presentación periodica de papers (semanal).
       * Definir roles en el grupo.
-      
+
 3. 21/12/2022 Se presentaron 2 charlas de Tesis I de magíster, 1) Clemente Henríquez: Evolution of topic and issues in Chilean news ([slides](slides/presentacion.pdf)), 2) Ignacio Meza: Benchmarking video action features for the video temporary sentence grounding task ([slides](slides/Benchmarking_video_action_features_for_the_video_temporary_sentence.pdf)).
 4. 14/12/2022 Jorge Ortiz presentó su charla de Tesis I de magíster titulada: "Attitude Analysis: a linguistic-based task for detailed position detection
    in texts"  ([slides](slides/2022-12-14 Jorge Ortiz.pdf)).
@@ -59,6 +60,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
     1. Idea interesante de ELECTRA: tener dos redes adversariales donde la primera genera oraciones corrompidas pero altamente probables (se reemplazan ciertas palabras por un muestreo de la salida de una softmax). Esto reemplaza la idea de hacer masking en BERT. La segunda red recibe las oraciones corrompidas de la primera y aprende a discriminar las palabras originales de las falsas (esto se hace con un sigmoide).
     2. Idea interesante de ALBERT: usar un embedding layer de menor dimensionalidad que se aumenta luego con una capa de proyección. Esto reduce el número de parámetros respecto a BERT. Además se propone reemplazar la task de next sentence prediction por una que tome dos oraciones consecutivas, las desordene en algunos casos, y prediga si tienen el orden correcto. El argumento es que la tarea de next sentence prediction de BERT (que pone pares de oraciones aleatorias en los ejemplos negativos) es un muy simple.
+    
 44. 25/09/2019: [Wladmir Cardoso Brandão](http://www.wladmirbrandao.com) presentó [InferSent](https://github.com/facebookresearch/InferSent), una técnica para entrenar sentence embeddings usando datos de la Natural Language Inference task.
 45. 11/09/2019: Henry Rosales presentó su artículo publicado en EMNLP sobre Entity Linking.
 46. 04/09/2019: vimos la segunda parte del video de MultiTask Learning. Algunos conceptos interesantes: pointer networks (capas basadas en atención para copiar partes del input), anti-curriculum training (aprender primero lo más díficil para evitar quedar en óptimo local).
