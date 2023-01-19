@@ -30,7 +30,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 3. Rolando Kindelan 
 1. Jesus Perez-Martin
 2. Frank Zamora
-8. Cintia Sánchez
+8. [Cinthia Sánchez](https://users.dcc.uchile.cl/~cisanche/)
 9. Ricardo Córdova
 10. Fabián Villena
 
