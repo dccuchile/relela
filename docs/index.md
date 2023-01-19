@@ -30,7 +30,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 3. Rolando Kindelan 
 1. Jesus Perez-Martin
 2. Frank Zamora
-8. Mabel Sánchez
+8. Cintia Sánchez
 9. Ricardo Córdova
 10. Fabián Villena
 
@@ -53,9 +53,8 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 ### Undergrad Students
 1. Juan Andrés Moreno 
 2. Sebastián Donoso
-3. Vicente Oyanedel
-4. Maximiliano Aguilar
-5. Rodrigo Urrea
+3. Maximiliano Aguilar
+4. Rodrigo Urrea
 
 ### Alumni 
 
@@ -67,6 +66,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 6. Cristián Tamblay
 7. Henry Rosales 
 8. Camilo Garrido
+9. Vicente Oyanedel
 
 ## Collaborators
 

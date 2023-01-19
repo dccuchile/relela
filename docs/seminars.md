@@ -6,6 +6,8 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
 ## Minutas (In Spanish)
 
+1. 19/01/2023 Presentaciones relámpago de los miembros de Relela ([slides](slides/presentaciones.pdf)).
+
 1. 11/01/2023 Mircea Petrache presentó su seminario titulada: Word embeddings analogies and paraphrases: proofs and open problems ([slides](slides/2023-11-01MirceaPetrocha.pdf)).
 
 2. 04/01/2023 Se realizo una reunión de coordinación para futuras actividades Relela, donde se tomaron los siguientes acuerdos:
