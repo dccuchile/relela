@@ -49,6 +49,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 11. Humberto Rodrigues
 12. David Rojas
 13. Ignacio Núñez
+14. Sebastián Tinoco
 
 ### Undergrad Students
 1. Juan Andrés Moreno 
