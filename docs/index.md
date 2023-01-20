@@ -50,6 +50,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 12. David Rojas
 13. Ignacio Núñez
 14. Sebastián Tinoco
+15. [Felipe Urrutia](http://dim.uchile.cl/~furrutia/)
 
 ### Undergrad Students
 1. Juan Andrés Moreno 
@@ -67,7 +68,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 6. Cristián Tamblay
 7. Henry Rosales 
 8. Camilo Garrido
-9. Vicente Oyanedel
+9. (Vicente Oyanedel)[vichoko.cl]
 
 ## Collaborators
 
@@ -80,6 +81,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 1. [Juan Manuel Barrios](https://juan.cl/)
 1. [Mauricio Cerda](http://www.scian.cl)
 1. [Alexandre Bergel](http://bergel.eu/)
+1. [Mircea Petrache](https://sites.google.com/site/mircpetrache/home)
 
 
 # Projects
