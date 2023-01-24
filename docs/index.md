@@ -53,6 +53,8 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 15. [Felipe Urrutia](http://dim.uchile.cl/~furrutia/)
 
 ### Undergrad Students
+
+1. Monserrat Prado
 1. Juan Andrés Moreno 
 2. Sebastián Donoso
 3. Maximiliano Aguilar
