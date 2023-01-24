@@ -118,14 +118,4 @@ Tesis I.
 50. 07/08/2019: Pablo Badilla presentó su propuesta de Tesis de Magíster sobre bias en Word Embeddings.
 
 
-51. 04/01/2023 Se realizo una reunión de coordinación para futuras actividades Relela, donde se tomaron los siguientes acuerdos:* Evento con presentaciones relámpagos sobre el tema que cada uno trabaja (2 minutos de presentación con 1 diapositiva).
 
-      * Profesores de ReLeLa incorporarán a sus estudiantes.
-      * Presentación periodica de papers (semanal).
-      * Definir roles en el grupo.
-
-52. 04/01/2023 Se realizo una reunión de coordinación para futuras actividades Relela, donde se tomaron los siguientes acuerdos:* Evento con presentaciones relámpagos sobre el tema que cada uno trabaja (2 minutos de presentación con 1 diapositiva).
-
-      * Profesores de ReLeLa incorporarán a sus estudiantes.
-      * Presentación periodica de papers (semanal).
-      * Definir roles en el grupo.
