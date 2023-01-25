@@ -6,6 +6,9 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
 ## Minutas (In Spanish)
 
+1. 25/01/2023 Valentin Barriere presentó su seminario titulada: Two improvements for mutli-lingual in-context
+classification over tweets using transformers ([slides](slides/tweetalk.pdf)).
+
 1. 18/01/2023 Presentaciones relámpago de los miembros de Relela ([slides](slides/presentaciones.pdf)).
 
 1. 11/01/2023 Mircea Petrache presentó su seminario titulada: Word embeddings analogies and paraphrases: proofs and open problems ([slides](slides/2023-11-01MirceaPetrocha.pdf)).
