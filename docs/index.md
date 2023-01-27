@@ -89,12 +89,13 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 # Projects
 
 
-1. [RiverText](https://github.com/dccuchile/rivertext)
+
 1. [Spanish Word Embeddings](https://github.com/dccuchile/spanish-word-embeddings)
 2. [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/)
 3. [BETO: Spanish BERT](https://github.com/dccuchile/beto)
 4. [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io/en/latest/)
 5. [ALBETO and DistilBETO: Lightweight Spanish Language Models](https://github.com/OpenCENIA/lightweight-spanish-language-models)
+6. [RiverText](https://github.com/dccuchile/rivertext)
 
 
 
