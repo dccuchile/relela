@@ -74,6 +74,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 
 ## Collaborators
 
+1. 1. [Mircea Petrache](https://sites.google.com/site/mircpetrache/home)
 1. [Valentin Barriere](https://scholar.google.fr/citations?user=5HX-EfcAAAAJ&hl=fr)
 1. [Cristian Rodriguez](https://crodriguezo.github.io)
 1. [Edison Marrese-Taylor](https://epochx.github.io)
@@ -83,12 +84,12 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 1. [Juan Manuel Barrios](https://juan.cl/)
 1. [Mauricio Cerda](http://www.scian.cl)
 1. [Alexandre Bergel](http://bergel.eu/)
-1. [Mircea Petrache](https://sites.google.com/site/mircpetrache/home)
 
 
 # Projects
 
 
+1. [RiverText](https://github.com/dccuchile/rivertext)
 1. [Spanish Word Embeddings](https://github.com/dccuchile/spanish-word-embeddings)
 2. [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/)
 3. [BETO: Spanish BERT](https://github.com/dccuchile/beto)
