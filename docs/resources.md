@@ -32,3 +32,37 @@ We count with the following GPU-equipped machines:
    * HDD2 : 2TB SATA3 SSD
    * GPU0: GeForce RTX 3090 24GB
    * GPU1: GeForce RTX 3090 24GB
+
+
+
+### RELELA-04
+
+   * CPU : AMD Ryzen 7 5700X 8-Core Processor
+   * RAM : 96GB DDR4
+   * HDD1: 2TB KINGSTON SFYRD2000G PCIe M.2 NVME
+   * GPU0: GeForce RTX A6000 48GB
+   * GPU1: GeForce RTX A6000 48GB
+   * GPUs connected via NVLINK 
+
+
+
+### RELELA-05
+
+   * CPU : AMD Ryzen 7 5700X 8-Core Processor
+   * RAM : 128GB DDR4
+   * HDD1: 2TB KINGSTON SFYRD2000G PCIe M.2 NVME
+   * GPU0: GeForce RTX A6000 48GB
+   * GPU1: GeForce RTX A6000 48GB
+   * GPUs connected via NVLINK 
+
+
+
+### RELELA-06
+
+   * CPU : AMD EPYC 7282 16-Core Processor
+   * RAM : 128GB DDR4
+   * HDD1: 1TB Samsung SSD 980 PRO PCIe M.2 NVME
+   * HDD2: 4TB Seagate Exos 7E10 SATA3
+   * GPU0: GeForce RTX A5000 24GB
+   * GPU1: GeForce RTX A5000 24GB
+   * GPU2: GeForce RTX A5000 24GB 
