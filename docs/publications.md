@@ -1,3 +1,9 @@
+## 2023
+
+1. Matias Rojas, Casimiro Pio Carrino, Aitor Gonzalez-Agirre, Jocelyn Dunstan, and Marta Villegas. 2022. Assessing the Limits of Straightforward Models for Nested Named Entity Recognition in Spanish Clinical Narratives. In Proceedings of the 13th International Workshop on Health Text Mining and Information Analysis (LOUHI), pages 14–25, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics. [(pdf)](https://link.springer.com/content/pdf/10.1007/s11263-022-01637-1.pdf?pdf=button).
+2. Divide and Conquer: An Extreme Multi-Label Classification Approach for Coding Diseases and Procedures in Spanish (Barros et al., Louhi 2022) [(pdf)](https://aclanthology.org/2022.louhi-1.16.pdf).
+3. Claudio Aracena, Fabián Villena, Matias Rojas, and Jocelyn Dunstan. 2022. A Knowledge-Graph-Based Intrinsic Test for Benchmarking Medical Concept Embeddings and Pretrained Language Models. In Proceedings of the 13th International Workshop on Health Text Mining and Information Analysis (LOUHI), pages 197–206, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics. [(pdf)](https://aclanthology.org/2022.louhi-1.22.pdf).
+
 ## 2022
 
 1. Sipiran, I., Mendoza, A., Apaza, A., Lopez, C.:  **Data-driven Restoration of Digital Archaeological Pottery with Point Cloud Analysis** . International Journal of Computer Vision,130(9), pp 2149–2165. Springer. 2022. [(pdf)](https://link.springer.com/content/pdf/10.1007/s11263-022-01637-1.pdf?pdf=button)
