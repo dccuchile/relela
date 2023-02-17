@@ -95,7 +95,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 3. [BETO: Spanish BERT](https://github.com/dccuchile/beto)
 4. [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io/en/latest/)
 5. [ALBETO and DistilBETO: Lightweight Spanish Language Models](https://github.com/OpenCENIA/lightweight-spanish-language-models)
-6ñ. [RiverText](https://github.com/dccuchile/rivertext)
+6. [RiverText](https://github.com/dccuchile/rivertext)
 
 
 
