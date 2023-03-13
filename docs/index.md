@@ -24,15 +24,14 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 ## Students
 
 ### PhD Students
-2. Juglar Díaz
-1. Hernán Sarmiento
-2. Aymé Arango
-3. Rolando Kindelan 
-1. Jesus Perez-Martin
-2. Frank Zamora
-8. [Cinthia Sánchez](https://users.dcc.uchile.cl/~cisanche/)
-9. Ricardo Córdova
-10. Fabián Villena
+1. Juglar Díaz
+2. Hernán Sarmiento
+3. Aymé Arango
+4. Rolando Kindelan 
+5. Jesus Perez-Martin
+6. Frank Zamora
+7. [Cinthia Sánchez](https://users.dcc.uchile.cl/~cisanche/)
+8. Fabián Villena
 
 
 ### Masters Students
@@ -71,6 +70,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 7. Henry Rosales 
 8. Camilo Garrido
 9. [Vicente Oyanedel](https://vichoko.cl/)
+10. Ricardo Córdova
 
 ## Collaborators
 
@@ -95,7 +95,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 3. [BETO: Spanish BERT](https://github.com/dccuchile/beto)
 4. [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io/en/latest/)
 5. [ALBETO and DistilBETO: Lightweight Spanish Language Models](https://github.com/OpenCENIA/lightweight-spanish-language-models)
-6. [RiverText](https://github.com/dccuchile/rivertext)
+6. [RiverText: An Python Library for Training and Evaluating Incremental Word Embeddings](https://github.com/dccuchile/rivertext)
 
 
 
