@@ -14,6 +14,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 5. [Jocelyn Dunstan](https://sites.google.com/view/jdunstan/home)
 6. [Eduardo Graells-Garrido](http://datagramas.cl/)
 7. [Claudio Gutiérrez](https://users.dcc.uchile.cl/~cgutierr/)
+8. [Aidan Hogan](https://aidanhogan.com/)
 8. [Jorge Pérez](https://users.dcc.uchile.cl/~jperez/)
 9. [Bárbara Poblete](https://www.barbara.cl/)
 10. [Iván Sipirán](http://www.ivan-sipiran.com/)
