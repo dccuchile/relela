@@ -15,9 +15,10 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 6. [Eduardo Graells-Garrido](http://datagramas.cl/)
 7. [Claudio Gutiérrez](https://users.dcc.uchile.cl/~cgutierr/)
 8. [Aidan Hogan](https://aidanhogan.com/)
-8. [Jorge Pérez](https://users.dcc.uchile.cl/~jperez/)
-9. [Bárbara Poblete](https://www.barbara.cl/)
-10. [Iván Sipirán](http://www.ivan-sipiran.com/)
+9. [Jorge Pérez](https://users.dcc.uchile.cl/~jperez/)
+10. [Bárbara Poblete](https://www.barbara.cl/)
+11. [Iván Sipirán](http://www.ivan-sipiran.com/)
+12. [Jorge Silva](https://jorgesil77.github.io/)
 
 
 
@@ -37,13 +38,13 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 
 ### Masters Students
 1. Daniel Aguirre
-6. Juan-Pablo Silva
-2. Jorge Ortiz
-3. Bastián Matamala
-4. [Gabriel Iturra](https://giturra.cl/)
-5. Mauricio Araneda
-11. [José Cañete](https://josecannete.github.io/) 
-12. Gabriel Chaperón 
+2. Juan-Pablo Silva
+3. Jorge Ortiz
+4. Bastián Matamala
+5. [Gabriel Iturra](https://giturra.cl/)
+6. Mauricio Araneda
+7. [José Cañete](https://josecannete.github.io/) 
+8. Gabriel Chaperón 
 9. Ignacio Meza 
 10. María José Zambrano
 11. Humberto Rodrigues
@@ -51,6 +52,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 13. Ignacio Núñez
 14. Sebastián Tinoco
 15. [Felipe Urrutia](http://dim.uchile.cl/~furrutia/)
+16. Victor Faraggi
 
 ### Undergrad Students
 
