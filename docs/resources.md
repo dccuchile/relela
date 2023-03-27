@@ -2,6 +2,8 @@
 
 We count with the following GPU-equipped machines: 
 
+<img src="../img/machines.jpg" alt="alt text" width="50%" height="50%">
+
 ### RELELA-01
 
 * CPU: Intel Core i7-9700F
@@ -75,4 +77,4 @@ We count with the following GPU-equipped machines:
 
 
 
-<img src="img/machines.jpg" alt="alt text" width="50%" height="50%"> 
+ 
