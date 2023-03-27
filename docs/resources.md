@@ -1,3 +1,5 @@
+
+
 We count with the following GPU-equipped machines: 
 
 ### RELELA-01
@@ -66,3 +68,11 @@ We count with the following GPU-equipped machines:
    * GPU0: GeForce RTX A5000 24GB
    * GPU1: GeForce RTX A5000 24GB
    * GPU2: GeForce RTX A5000 24GB 
+
+
+
+ 
+
+
+
+<img src="img/machines.jpg" alt="alt text" width="50%" height="50%"> 
