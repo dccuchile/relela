@@ -6,11 +6,13 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
 ## Minutas (In Spanish)
 
+1. 05/04/2023 Valentin Barriere presentó su seminario titulada: Multilingual Multi-target Stance Recognition
+in Online Public Consultations ([slides](slides/charla_valentin_barriere)).
 1. 29/03/2023 José Cañete presentó su charla de tesis II titulada: Light and Fast Language Models for
 Spanish Through Compression
 Techniques ([slides](slides/joseca%C3%B1etertesisII.pdf))([vídeo](https://www.youtube.com/watch?v=qKSfwKv3e-0)).
 
-1. 25/01/2023 Valentin Barriere presentó su seminario titulada: Two improvements for mutli-lingual in-context
+1. 25/01/2023 Valentin Barriere presentó su seminario titulado: Two improvements for mutli-lingual in-context
 classification over tweets using transformers ([slides](slides/tweetalk.pdf)).
 
 1. 18/01/2023 Presentaciones relámpago de los miembros de Relela ([slides](slides/presentaciones.pdf)).
