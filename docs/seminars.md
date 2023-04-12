@@ -6,6 +6,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
 ## Minutas (In Spanish)
 
+1. 12/04/2023 [Gabriel Iturra](https://giturra.cl/) presentó su charla de tesis II titulada: RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams ([slides](slides/gabrieliturratesisII.pdf))([vídeo](https://www.youtube.com/watch?v=T0RD3mULe5M)).
 1. 05/04/2023 Valentin Barriere presentó su seminario titulada: Multilingual Multi-target Stance Recognition
 in Online Public Consultations ([slides](slides/charla_valentin_barriere.pdf))
 1. 29/03/2023 José Cañete presentó su charla de tesis II titulada: Light and Fast Language Models for
