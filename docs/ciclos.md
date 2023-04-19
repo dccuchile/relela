@@ -102,7 +102,7 @@ Su investigación se sitúa entre el Aprendizaje Automático Estadístico y el P
 
 ### Martín Caceres
 
-<!-- <img src="img/expositores/felipe-tobar.jpg" alt="alt text" width="30%" height="30%">  -->
+<img src="../img/expositores/martin-caceres.png" alt="alt text" width="30%" height="30%"> 
 
 **Director del Centro de Innovación MINEDUC. Licenciado en Física y Doctor en Ciencias de la Ingeniería de la Pontificia Universidad Católica de Chile.**
 
