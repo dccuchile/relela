@@ -11,7 +11,7 @@
 * Organización: [RELELA](https://relela.com/), [DCC Uchile](https://www.dcc.uchile.cl/). 
 * Patrocinadores: [CENIA](https://cenia.cl/), [IMFD](https://imfd.cl/en/), [MineDUC](https://www.mineduc.cl/).
 * Inscripciones [aquí](https://forms.gle/RjKCg7N7uPbyHgcH6).
-* Será formato híbrido y se transmitirá en el canal de Youtube del [DCC](youtube.com/dccuchile).
+* Será formato híbrido y se transmitirá en el canal de Youtube del [DCC](https://www.youtube.com/dccuchile).
 
 
 
@@ -108,7 +108,7 @@ Cero.ai es una empresa que apoya a que los pacientes lleguen a sus citas a la ho
 Doctora en Periodismo y Comunicación de Masas, University of Texas- Austin (Estados Unidos). Magíster en Investigación Social y Desarrollo, Universidad de Concepción. Periodista, Universidad de Concepción. Sus áreas de investigación son: Medios digitales, comunicación política, opinión pública y estudios latinoamericanos.
 
 
-### [Felipe Tobar](https://comunicaciones.uc.cl/facultad/personas/magdalena-saldana-villa/)
+### [Felipe Tobar](https://www.dim.uchile.cl/~ftobar/)
 
 <img src="../img/ciclo/felipe-tobar.jpg" alt="alt text" width="30%" height="30%"> 
 
