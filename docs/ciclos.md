@@ -12,6 +12,7 @@
 * Patrocinadores: [CENIA](https://cenia.cl/), [IMFD](https://imfd.cl/en/), [MineDUC](https://www.mineduc.cl/).
 * Inscripciones [aquí](https://forms.gle/RjKCg7N7uPbyHgcH6).
 * Será formato híbrido y se transmitirá en el canal de Youtube del [DCC](https://www.youtube.com/dccuchile).
+* Si necesita contactar a la organización por favor enviar un correo a relela at dcc.uchile.cl.
 
 
 
