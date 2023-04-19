@@ -9,6 +9,7 @@
 * Organización: RELELA, DCC Uchile. 
 * Patrocinadores: CENIA, IMFD, MineDUC.
 * Inscripciones [aquí](https://forms.gle/RjKCg7N7uPbyHgcH6).
+* Será formato híbrido y se transmitirá en el canal de youtube del [DCC](youtube.com/dccuchile).
 
 ## Cronograma
 
