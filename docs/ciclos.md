@@ -37,7 +37,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
     * Título:  Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4 
 
 * Miércoles 17 de mayo 4PM
-    * Gabriela Arriagada, IEA, IMC, UC, CENIA
+    * Presentadora: Gabriela Arriagada, IEA, IMC, UC, CENIA
     * Título: Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4
 
 * Miércoles 24 de mayo 4PM 
@@ -77,7 +77,7 @@ Data Scientist y Lingüista
 
 <img src="../img/ciclo/gabriela-arriagada.JPG" alt="alt text" width="30%" height="30%"> 
 
-**Profesor Asistente, Instituto de Ética Aplicada (IEA) & Instituto de Ingeniería Matemática y Computacional (IMC), UC, Investigadora CENIA. Candidata a Doctor en Filosofía y Ética Aplicada de la Universidad de Leeds, Inglaterra**.  La mayor parte de su trabajo se centra en la ética aplicada. Actualmente investiga sobre sesgo, equidad y explicabilidad en IA y ciencia de datos.
+**Profesora<img src="../img/ciclo/afiche1.png" alt="alt text" width="80%" height="80%"> Asistente, Instituto de Ética Aplicada (IEA) & Instituto de Ingeniería Matemática y Computacional (IMC), UC, Investigadora CENIA. Candidata a Doctor en Filosofía y Ética Aplicada de la Universidad de Leeds, Inglaterra**.  La mayor parte de su trabajo se centra en la ética aplicada. Actualmente investiga sobre sesgo, equidad y explicabilidad en IA y ciencia de datos.
 
 ### [Jorge Peréz](https://www.linkedin.com/in/jorge-p%C3%A9rez-a904a1214/)
 
