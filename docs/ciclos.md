@@ -29,7 +29,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 ## Cronograma
 
 * Miércoles 3 de mayo 4PM
-    * Presentador: Jorge Ortiz DCC Uchile
+    * Presentador: Jorge Ortiz DCC Uchile, IMFD
     * Título: ¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina
 
 * Miércoles 10 de mayo 4PM
@@ -37,7 +37,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
     * Título:  Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4 
 
 * Miércoles 17 de mayo 4PM
-    * Gabriela Arriagada, IEA, IMC, PUC, CENIA
+    * Presentadora: Gabriela Arriagada, IEA, IMC, UC, CENIA
     * Título: Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4
 
 * Miércoles 24 de mayo 4PM 
@@ -49,7 +49,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 * Miércoles 31 de mayo 4PM
     * Título: Panel de Discusión  - Alcances y límites de los modelos de lenguaje 
-    * Panelistas: Cristian Buc (CENIA), Magdalena Saldaña (PUC/IMFD),  Martín Cáceres (MINEDUC) y Felipe Tobar (IDIA Uchile, CMM)
+    * Panelistas: Cristian Buc (CENIA), Magdalena Saldaña (UC/IMFD),  Martín Cáceres (MINEDUC) y Felipe Tobar (IDIA Uchile, CMM)
     * Moderador: Claudio Gutierrez (DCC Uchile, IMFD)
 
 
@@ -71,13 +71,13 @@ Realizó su doctorado en el grupo Machine Learning de la Universidad de Waikato,
 
 Data Scientist y Lingüista
 
-**Licenciado en Letras Hispánicas de la Pontificia Universidad Católica y Magíster (c) en Ciencias de la Computación de la Universidad de Chile**. Sus áreas de investigación y desarrollo abarcan el procesamiento de Lenguaje Natural, la Ciencia de Datos y la Lingüística.
+**Licenciado en Letras Hispánicas de la Pontificia Universidad Católica, Magíster (c) en Ciencias de la Computación de la Universidad de Chile y Estudiante IMFD**. Sus áreas de investigación y desarrollo abarcan el procesamiento de Lenguaje Natural, la Ciencia de Datos y la Lingüística.
 
 ### [Gabriela Arriagada](https://www.linkedin.com/in/gabriela-arriagada-bruneau-7a294892/)
 
 <img src="../img/ciclo/gabriela-arriagada.JPG" alt="alt text" width="30%" height="30%"> 
 
-**Profesor Asistente, Instituto de Ética Aplicada (IEA) & Instituto de Ingeniería Matemática y Computacional (IMC), PUC, Investigadora CENIA. Candidata a Doctor en Filosofía y Ética Aplicada de la Universidad de Leeds, Inglaterra**.  La mayor parte de su trabajo se centra en la ética aplicada. Actualmente investiga sobre sesgo, equidad y explicabilidad en IA y ciencia de datos.
+**Profesora Asistente, Instituto de Ética Aplicada (IEA) & Instituto de Ingeniería Matemática y Computacional (IMC), UC, Investigadora CENIA. Candidata a Doctor en Filosofía y Ética Aplicada de la Universidad de Leeds, Inglaterra**.  La mayor parte de su trabajo se centra en la ética aplicada. Actualmente investiga sobre sesgo, equidad y explicabilidad en IA y ciencia de datos.
 
 ### [Jorge Peréz](https://www.linkedin.com/in/jorge-p%C3%A9rez-a904a1214/)
 
@@ -85,7 +85,7 @@ Data Scientist y Lingüista
 
 **Co-Fundador de Cero.ai.**
 
-Cero.ai es una empresa que apoya a que los pacientes lleguen a sus citas a la hora y preparados. Actualmente dirige el desarrollo en inteligencia artificial del  producto, y está a cargo de las  ventas a instituciones públicas de salud. Antes de cero.ai fue académico e investigador universitario por más de 15 años (DCC Uchile) y estudió un PhD en Computación (PUC). Su área principal de investigación es el Procesamiento de Lenguaje Natural y Redes Neuronales Profundas.
+Cero.ai es una empresa que apoya a que los pacientes lleguen a sus citas a la hora y preparados. Actualmente dirige el desarrollo en inteligencia artificial del  producto, y está a cargo de las  ventas a instituciones públicas de salud. Antes de cero.ai fue académico e investigador universitario por más de 15 años (DCC Uchile) y estudió un PhD en Computación (UC). Su área principal de investigación es el Procesamiento de Lenguaje Natural y Redes Neuronales Profundas.
 
 
 ### [José Manuel Peña](https://www.linkedin.com/in/jose-manuel-pena/)
