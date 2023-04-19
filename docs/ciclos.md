@@ -13,26 +13,26 @@
 ## Cronograma
 
 * Miércoles 3 de mayo 4PM
-Presentador: Jorge Ortiz DCC Uchile
-Título: ¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina
+    * Presentador: Jorge Ortiz DCC Uchile
+    * Título: ¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina
 
 * Miércoles 10 de mayo 4PM
-Presentador: Felipe Bravo-Marquez DCC Uchile, IMFD, CENIA
-Título:  Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4 
+    * Presentador: Felipe Bravo-Marquez DCC Uchile, IMFD, CENIA
+    * Título:  Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4 
 
 * Miércoles 17 de mayo 4PM
-Gabriela Arriagada, IEA, IMC, PUC, CENIA
-Título: Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4
+    * Gabriela Arriagada, IEA, IMC, PUC, CENIA
+    * Título: Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4
 
 * Miércoles 24 de mayo 4PM (ChatGPT en la Industria, posibilidades y proyecciones,  dos charlas de 15-20 minutos)
-Jorge Pérez CERO: “IA sin farándula”
-Manuel Peña, Fintual:  “GPT y Agentes, Como Conversar con tu App”
+    * Jorge Pérez CERO: “IA sin farándula”
+    * Manuel Peña, Fintual:  “GPT y Agentes, Como Conversar con tu App”
 
 
 * Miércoles 31 de mayo 4PM
-Título: Panel de Discusión  - Alcances y límites de los modelos de lenguaje (cada panelista expone una idea en 5 minutos y después ronda de conversación)
-Panelistas: Cristian Buc por CENIA (mirada AI/neurociencia), Magdalena Saldaña PUC/IMFD (mirada comunicaciones),  Martín Cáceres (MINEDUC mirada desde la educación), Felipe Tobar IDIA Uchile (mirada desde machine learning)
-Moderador: Claudio Gutierrez
+    * Título: Panel de Discusión  - Alcances y límites de los modelos de lenguaje (cada panelista expone una idea en 5 minutos y después ronda de conversación)
+    * Panelistas: Cristian Buc por CENIA (mirada AI/neurociencia), Magdalena Saldaña PUC/IMFD (mirada comunicaciones),  Martín Cáceres (MINEDUC mirada desde la educación), Felipe Tobar IDIA Uchile (mirada desde machine learning)
+    * Moderador: Claudio Gutierrez
 
 
 
