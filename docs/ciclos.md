@@ -2,6 +2,8 @@
 
 # Ciclos de Charlas ReLeLa
 
+<img src="../img/ciclo/afiche1.png" alt="alt text" width="80%" height="80%"> 
+
 ## Las (im)posibilidades de los Modelos del Lenguaje
 
 * Lugar: Auditorio Ramón Picarte DCC-Uchile.
@@ -55,7 +57,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 ### [Felipe Bravo-Marquez](https://felipebravom.com/)
 
-<img src="../img/expositores/felipe.png" alt="alt text" width="30%" height="30%"> 
+<img src="../img/ciclo/felipe.png" alt="alt text" width="30%" height="30%"> 
 
 **Profesor asistente en el Departamento de Ciencias de la Computación de la Universidad de Chile, Investigador Asociado del Centro Nacional de Inteligencia Artificial (CENIA) e Investigador Joven del Instituto Milenio Fundamento de los Datos (IMFD).**
 
@@ -64,7 +66,7 @@ Realizó su doctorado en el grupo Machine Learning de la Universidad de Waikato,
 
 ### [Jorge Ortiz Fuentes](https://www.ortizfuentes.com/)
 
-<img src="../img/expositores/jorge.jpg" alt="alt text" width="30%" height="30%">  
+<img src="../img/ciclo/jorge.jpg" alt="alt text" width="30%" height="30%">  
 
 Data Scientist y Lingüista
 
@@ -72,13 +74,13 @@ Data Scientist y Lingüista
 
 ### [Gabriela Arriagada](https://www.linkedin.com/in/gabriela-arriagada-bruneau-7a294892/)
 
-<img src="../img/expositores/gabriela-arriagada.JPG" alt="alt text" width="30%" height="30%"> 
+<img src="../img/ciclo/gabriela-arriagada.JPG" alt="alt text" width="30%" height="30%"> 
 
 **Profesor Asistente, Instituto de Ética Aplicada (IEA) & Instituto de Ingeniería Matemática y Computacional (IMC), PUC, Investigadora CENIA. Candidata a Doctor en Filosofía y Ética Aplicada de la Universidad de Leeds, Inglaterra**.  La mayor parte de su trabajo se centra en la ética aplicada. Actualmente investiga sobre sesgo, equidad y explicabilidad en IA y ciencia de datos.
 
 ### [Jorge Peréz](https://www.linkedin.com/in/jorge-p%C3%A9rez-a904a1214/)
 
- <img src="img/expositores/jorge-perez.png" alt="alt text" width="30%" height="30%">  
+ <img src="img/ciclo/jorge-perez.png" alt="alt text" width="30%" height="30%">  
 
 **Co-Fundador de Cero.ai.**
 
@@ -87,19 +89,19 @@ Cero.ai es una empresa que apoya a que los pacientes lleguen a sus citas a la ho
 
 ### [José Manuel Peña](https://www.linkedin.com/in/jose-manuel-pena/)
 
-<img src="img/expositores/manuel-pena.png" alt="alt text" width="30%" height="30%"> 
+<img src="img/ciclo/manuel-pena.png" alt="alt text" width="30%" height="30%"> 
 
 **Senior Portfolio Manager en Fintual, Ingeniero Civil Industrial de la Universidad de Chile, Chartered Financial Analyst (CFA) y Master en Applied Analytics de la Universidad de Columbia en Nueva York**. Ha ejercido cargos en la industria financiera en áreas de análisis, desarrollo y gestión de portafolios para clientes privados y fondos de pensiones, además de haber realizado emprendimientos en áreas de analytics e inteligencia artificial. Manu también es Regional Chair del Columbia SPS Career Coalition y miembro de la comisión de Inteligencia Artificial y Big Data del Instituto de Ingenieros de Chile.
 
 ### [Cristián Buc](https://scholar.google.com/citations?user=0gXva0YAAAAJ&hl=fr) 
 
-<img src="img/expositores/cristian-buc.png" alt="alt text" width="30%" height="30%"> 
+<img src="img/ciclo/cristian-buc.png" alt="alt text" width="30%" height="30%"> 
 
 **Investigador CENIA: Jefe del grupo científico @ CENIA. PhD en Neurociencias Computacionales Cognitivas de la Universidad Libre de Bruselas, postdoctorados en Ghent University y Brown University**. Su área de investigación emerge de la intersección entre Neurociencias e IA. En particular, su trabajo se centra en el desarrollo de redes neuronales inspiradas en funciones y mecanismos cerebrales.
 
 ### [Magdalena Saldaña](https://comunicaciones.uc.cl/facultad/personas/magdalena-saldana-villa/)
 
-<img src="../img/expositores/magdalena-saldaña.jpg" alt="alt text" width="30%" height="30%"> 
+<img src="../img/ciclo/magdalena-saldaña.jpg" alt="alt text" width="30%" height="30%"> 
 
 **Profesora Asistente de la Facultad de Comunicaciones de la Pontificia Universidad Católica de Chile e investigadora del Instituto Milenio Fundamento de los Datos.**   
 
@@ -108,7 +110,7 @@ Doctora en Periodismo y Comunicación de Masas, University of Texas- Austin (Est
 
 ### [Felipe Tobar](https://comunicaciones.uc.cl/facultad/personas/magdalena-saldana-villa/)
 
-<img src="../img/expositores/felipe-tobar.jpg" alt="alt text" width="30%" height="30%"> 
+<img src="../img/ciclo/felipe-tobar.jpg" alt="alt text" width="30%" height="30%"> 
 
 **Profesor Asociado, Universidad de Chile,  Director, Iniciativa de Datos e Inteligencia Artificial, Uchile,  Investigador, CMM & AC3E.**
 
@@ -116,7 +118,7 @@ Su investigación se sitúa entre el Aprendizaje Automático Estadístico y el P
 
 ### [Martín Caceres](https://www.linkedin.com/in/mart%C3%ADn-c%C3%A1ceres-murrie-02785289/)
 
-<img src="../img/expositores/martin-caceres.png" alt="alt text" width="30%" height="30%"> 
+<img src="../img/ciclo/martin-caceres.png" alt="alt text" width="30%" height="30%"> 
 
 **Director del Centro de Innovación MINEDUC. Licenciado en Física y Doctor en Ciencias de la Ingeniería de la Pontificia Universidad Católica de Chile.**
 
