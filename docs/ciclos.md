@@ -80,7 +80,7 @@ Data Scientist y Lingüista
 
 ### [Jorge Peréz](https://www.linkedin.com/in/jorge-p%C3%A9rez-a904a1214/)
 
- <img src="img/ciclo/jorge-perez.png" alt="alt text" width="30%" height="30%">  
+ <img src="../img/ciclo/jorge-perez.png" alt="alt text" width="30%" height="30%">  
 
 **Co-Fundador de Cero.ai.**
 
@@ -89,13 +89,13 @@ Cero.ai es una empresa que apoya a que los pacientes lleguen a sus citas a la ho
 
 ### [José Manuel Peña](https://www.linkedin.com/in/jose-manuel-pena/)
 
-<img src="img/ciclo/manuel-pena.png" alt="alt text" width="30%" height="30%"> 
+<img src="../img/ciclo/manuel-pena.png" alt="alt text" width="30%" height="30%"> 
 
 **Senior Portfolio Manager en Fintual, Ingeniero Civil Industrial de la Universidad de Chile, Chartered Financial Analyst (CFA) y Master en Applied Analytics de la Universidad de Columbia en Nueva York**. Ha ejercido cargos en la industria financiera en áreas de análisis, desarrollo y gestión de portafolios para clientes privados y fondos de pensiones, además de haber realizado emprendimientos en áreas de analytics e inteligencia artificial. Manu también es Regional Chair del Columbia SPS Career Coalition y miembro de la comisión de Inteligencia Artificial y Big Data del Instituto de Ingenieros de Chile.
 
 ### [Cristián Buc](https://scholar.google.com/citations?user=0gXva0YAAAAJ&hl=fr) 
 
-<img src="img/ciclo/cristian-buc.png" alt="alt text" width="30%" height="30%"> 
+<img src="../img/ciclo/cristian-buc.png" alt="alt text" width="30%" height="30%"> 
 
 **Investigador CENIA: Jefe del grupo científico @ CENIA. PhD en Neurociencias Computacionales Cognitivas de la Universidad Libre de Bruselas, postdoctorados en Ghent University y Brown University**. Su área de investigación emerge de la intersección entre Neurociencias e IA. En particular, su trabajo se centra en el desarrollo de redes neuronales inspiradas en funciones y mecanismos cerebrales.
 
