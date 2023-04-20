@@ -27,28 +27,28 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 ## Cronograma
 
 * Miércoles 3 de mayo 4PM
-    * Presentador: Jorge Ortiz DCC Uchile, IMFD
+    * Presentador: Presentador: Jorge Ortiz DCC Uchile, IMFD, Awto.
     * Título: ¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina
 
 * Miércoles 10 de mayo 4PM
-    * Presentador: Felipe Bravo-Marquez DCC Uchile, IMFD, CENIA
+    * Presentador: Felipe Bravo-Marquez DCC Uchile, IMFD, CENIA.
     * Título:  Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4 
 
 * Miércoles 17 de mayo 4PM
-    * Presentadora: Gabriela Arriagada, IEA, IMC, UC, CENIA
+    * Presentadora: Gabriela Arriagada, IEA, IMC, UC, CENIA.
     * Título: Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4
 
 * Miércoles 24 de mayo 4PM 
     * Título: ChatGPT en la Industria: posibilidades y proyecciones.
     * Charla 1: “IA sin farándula” por Jorge Pérez (CERO).
-    * Charla 2:  “GPT y Agentes, Como Conversar con tu App” por Manuel Peña (Fintual)
+    * Charla 2:  “GPT y Agentes, Como Conversar con tu App” por Manuel Peña (Fintual).
     
 
 
 * Miércoles 31 de mayo 4PM
     * Título: Panel de Discusión  - Alcances y límites de los modelos de lenguaje 
-    * Panelistas: Cristian Buc (CENIA), Magdalena Saldaña (UC/IMFD),  Martín Cáceres (MINEDUC) y Felipe Tobar (IDIA Uchile, CMM)
-    * Moderador: Claudio Gutierrez (DCC Uchile, IMFD)
+    * Panelistas: Cristian Buc (CENIA), Magdalena Saldaña (UC/IMFD),  Martín Cáceres (MINEDUC) y Felipe Tobar (IDIA Uchile, CMM).
+    * Moderador: Claudio Gutierrez (DCC Uchile, IMFD).
 
 
 
@@ -67,9 +67,9 @@ Realizó su doctorado en el grupo Machine Learning de la Universidad de Waikato,
 
 <img src="../img/ciclo/jorge.jpg" alt="alt text" width="30%" height="30%">  
 
-Data Scientist y Lingüista
+Data Scientist y Lingüista.
 
-**Licenciado en Letras Hispánicas de la Pontificia Universidad Católica, Magíster (c) en Ciencias de la Computación de la Universidad de Chile y Estudiante IMFD**. Sus áreas de investigación y desarrollo abarcan el procesamiento de Lenguaje Natural, la Ciencia de Datos y la Lingüística.
+**Licenciado en Letras Hispánicas de la Pontificia Universidad Católica, Magíster (c) en Ciencias de la Computación de la Universidad de Chile y Estudiante IMFD**. Sus áreas de investigación y desarrollo abarcan el procesamiento de Lenguaje Natural, la Ciencia de Datos y la Lingüística. Actualmente se desempeña como Machine Learning Engineer en Awto.
 
 ### [Gabriela Arriagada](https://www.linkedin.com/in/gabriela-arriagada-bruneau-7a294892/)
 
