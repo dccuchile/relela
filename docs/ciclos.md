@@ -116,7 +116,7 @@ Doctora en Periodismo y Comunicación de Masas, University of Texas- Austin (Est
 
 Su investigación se sitúa entre el Aprendizaje Automático Estadístico y el Procesamiento de Señales, incluyendo inferencia aproximada, inferencia no-paramétrica bayesiana, estimación espectral y transporte óptimo computacional.
 
-### [Martín Caceres](https://www.linkedin.com/in/mart%C3%ADn-c%C3%A1ceres-murrie-02785289/)
+### [Martín Cáceres](https://www.linkedin.com/in/mart%C3%ADn-c%C3%A1ceres-murrie-02785289/)
 
 <img src="../img/ciclo/martin-caceres.png" alt="alt text" width="30%" height="30%"> 
 
