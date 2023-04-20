@@ -12,7 +12,7 @@
 * Patrocinadores: [CENIA](https://cenia.cl/), [IMFD](https://imfd.cl/en/).
 * Será formato híbrido y se transmitirá en el canal de Youtube del [DCC](https://www.youtube.com/dccuchile).
 
-## [Inscripciones](https://forms.gle/RjKCg7N7uPbyHgcH6).
+## [Inscripciones](https://forms.gle/RjKCg7N7uPbyHgcH6)
 
 ## Sobre el evento
 
