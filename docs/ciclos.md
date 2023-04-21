@@ -31,7 +31,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
     * Título: ¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina
 
 * Miércoles 10 de mayo 4PM
-    * Presentador: Felipe Bravo-Marquéz DCC Uchile, IMFD, CENIA.
+    * Presentador: Felipe Bravo-Márquez DCC Uchile, IMFD, CENIA.
     * Título:  Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4 
 
 * Miércoles 17 de mayo 4PM
@@ -54,7 +54,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 ## Expositores
 
-### [Felipe Bravo-Marquéz](https://felipebravom.com/)
+### [Felipe Bravo-Márquez](https://felipebravom.com/)
 
 <img src="../img/ciclo/felipe.png" alt="alt text" width="30%" height="30%"> 
 
