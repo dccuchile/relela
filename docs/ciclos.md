@@ -10,7 +10,7 @@
 * Dirección: Avenida Beauchef 851, Piso 3, Edificio Norte, Santiago. 
 * Organización: [RELELA](https://relela.com/), [DCC Uchile](https://www.dcc.uchile.cl/). 
 * Patrocinadores: [CENIA](https://cenia.cl/), [IMFD](https://imfd.cl/en/).
-* Será formato híbrido y se transmitirá en el canal de Youtube del [DCC](https://www.youtube.com/dccuchile).
+* Será en formato híbrido y se transmitirá a través del canal de Youtube del [DCC](https://www.youtube.com/dccuchile).
 
 ## [Inscripciones](https://forms.gle/RjKCg7N7uPbyHgcH6)
 
@@ -31,7 +31,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
     * Título: ¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina
 
 * Miércoles 10 de mayo 4PM
-    * Presentador: Felipe Bravo-Marquez DCC Uchile, IMFD, CENIA.
+    * Presentador: Felipe Bravo-Marquéz DCC Uchile, IMFD, CENIA.
     * Título:  Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4 
 
 * Miércoles 17 de mayo 4PM
@@ -40,21 +40,21 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 * Miércoles 24 de mayo 4PM 
     * Título: ChatGPT en la Industria: posibilidades y proyecciones.
-    * Charla 1: “IA sin farándula” por Jorge Pérez (CERO).
-    * Charla 2:  “GPT y Agentes, Como Conversar con tu App” por Manuel Peña (Fintual).
+    * Charla 1: "IA sin farándula" por Jorge Pérez (CERO).
+    * Charla 2:  "GPT y Agentes, Como Conversar con tu App" por Manuel Peña (Fintual).
     
 
 
 * Miércoles 31 de mayo 4PM
     * Título: Panel de Discusión  - Alcances y límites de los modelos de lenguaje 
     * Panelistas: Cristian Buc (CENIA), Magdalena Saldaña (UC/IMFD),  Martín Cáceres (MINEDUC) y Felipe Tobar (IDIA Uchile, CMM).
-    * Moderador: Claudio Gutierrez (DCC Uchile, IMFD).
+    * Moderador: Claudio Gutiérrez (DCC Uchile, IMFD).
 
 
 
 ## Expositores
 
-### [Felipe Bravo-Marquez](https://felipebravom.com/)
+### [Felipe Bravo-Marquéz](https://felipebravom.com/)
 
 <img src="../img/ciclo/felipe.png" alt="alt text" width="30%" height="30%"> 
 
