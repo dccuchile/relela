@@ -2,7 +2,7 @@
 
 # Ciclos de Charlas ReLeLa
 
-<img src="../img/ciclo/afiche1.png" alt="alt text" width="80%" height="80%"> 
+<img src="../img/ciclo/afiche2.jpg" alt="alt text" width="80%" height="80%"> 
 
 ## Las (im)posibilidades de los Modelos del Lenguaje
 
