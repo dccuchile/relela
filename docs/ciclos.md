@@ -28,25 +28,25 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 * Miércoles 3 de mayo 4PM
     * Presentador: Presentador: Jorge Ortiz DCC Uchile, IMFD, Awto.
-    * Título: ¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina
+    * Título: [¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina.](img/ciclo/afiche-jorge-ortiz.jpg)
 
 * Miércoles 10 de mayo 4PM
     * Presentador: Felipe Bravo-Márquez DCC Uchile, IMFD, CENIA.
-    * Título:  Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4 
+    * Título: [Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4.](img/ciclo/afiche-felipe-bravo.jpg) 
 
 * Miércoles 17 de mayo 4PM
     * Presentadora: Gabriela Arriagada, IEA, IMC, UC, CENIA.
-    * Título: Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4
+    * Título: [Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4.](img/ciclo/afiche-gabriela-arriagada.jpg)
 
 * Miércoles 24 de mayo 4PM 
-    * Título: ChatGPT en la Industria: posibilidades y proyecciones.
+    * Título: [ChatGPT en la Industria: posibilidades y proyecciones.](img/ciclo/afiche-jp-mp.jpg)
     * Charla 1: "IA sin farándula" por Jorge Pérez (CERO).
     * Charla 2:  "GPT y Agentes, Como Conversar con tu App" por Manuel Peña (Fintual).
     
 
 
 * Miércoles 31 de mayo 4PM
-    * Título: Panel de Discusión  - Alcances y límites de los modelos de lenguaje 
+    * Título: [Panel de Discusión  - Alcances y límites de los modelos de lenguaje.](img/ciclo/afiche-conversatorio.jpg)
     * Panelistas: Cristián Buc (CENIA), Magdalena Saldaña (UC/IMFD),  Martín Cáceres (MINEDUC) y Felipe Tobar (IDIA Uchile, CMM).
     * Moderador: Claudio Gutiérrez (DCC Uchile, IMFD).
 
