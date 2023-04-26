@@ -123,3 +123,24 @@ Su investigación se sitúa entre el Aprendizaje Automático Estadístico y el P
 
 Ha trabajado como docente en el sistema escolar enseñando física, electrónica y robótica, y en el sistema universitario ha dictado cursos de humanidades digitales y metodologías innovadoras de enseñanza y aprendizaje. Además, ha trabajado en asesorías a escuelas y universidades y en política pública relacionada con innovación pedagógica en Chile y en el extranjero.
 
+## Afiches
+
+### ¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina.
+
+<img src="../img/ciclo/afiche-jorge-ortiz.jpg" alt="alt text" width="80%" height="80%">  
+
+### Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4.
+
+<img src="../img/ciclo/afiche-felipe-bravo.jpg" alt="alt text" width="80%" height="80%">
+
+### Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4.
+
+<img src="../img/ciclo/afiche-gabriela-arriagada.jpg" alt="alt text" width="80%" height="80%">
+
+### ChatGPT en la Industria: posibilidades y proyecciones.
+
+<img src="../img/ciclo/afiche-jp-mp.jpg" alt="alt text" width="80%" height="80%">
+
+### Alcances y límites de los modelos de lenguaje.
+
+<img src="../img/ciclo/afiche-conversatorio.jpg" alt="alt text" width="80%" height="80%">
