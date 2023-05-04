@@ -28,7 +28,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 * Miércoles 3 de mayo 4PM
     * Presentador: Presentador: Jorge Ortiz DCC Uchile, IMFD, Awto.
-    * Título: [¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina](img/ciclo/afiche-jorge-ortiz.jpg) ([slides](slides/ciclo/seminar-jorge-ortiz.pdf)).
+    * Título: [¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina](img/ciclo/afiche-jorge-ortiz.jpg) ([slides](slides/ciclo/seminar-jorge-ortiz.pdf), [grabación](https://www.youtube.com/watch?v=ow1QV5lqQ-E&t=7s)).
 
 * Miércoles 10 de mayo 4PM
     * Presentador: Felipe Bravo-Márquez DCC Uchile, IMFD, CENIA.
