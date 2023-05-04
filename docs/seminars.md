@@ -6,6 +6,8 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
 ## Minutas (In Spanish)
 
+1. Ciclo de Charlas ChatGPT: Jorge Ortiz presentó su seminario titulado, ¿Puede ChatGPT conquistar el mundo?
+Lenguaje humano vs lenguaje de máquina ([slides](slides/ciclo/seminar-jorge-ortiz.pdf))([vídeo](https://www.youtube.com/watch?v=ow1QV5lqQ-E)).
 1. Mauricio Araneda presentó su seminario titulado: MUSIB: Musical Score Inpainting Benchmark ([slides](slides/mauricio-araneda-seminar.pdf)).
 1. 19/04/2023 Felipe Urrutia presentó su seminario titulado: The Role of Natural Language Processing in Advancing Competency-Based Education and Mathematics Learning in Fourth Graders ([slides](slides/seminar-felipe-urrutia.pdf))
 1. 12/04/2023 [Gabriel Iturra](https://giturra.cl/) presentó su charla de tesis II titulada: RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams ([slides](slides/gabrieliturratesisII.pdf))([vídeo](https://www.youtube.com/watch?v=T0RD3mULe5M)).
