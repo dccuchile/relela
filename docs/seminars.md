@@ -7,7 +7,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 ## Minutas (In Spanish)
 
 1. 04/05/2023 Ciclo de Charlas ChatGPT: Jorge Ortiz presentó su seminario titulado, ¿Puede ChatGPT conquistar el mundo?
-Lenguaje humano vs lenguaje de máquina ([slides](slides/ciclo/seminar-jorge-ortiz.pdf))([vídeo](https://www.youtube.com/watch?v=ow1QV5lqQ-E)).
+Lenguaje humano vs lenguaje de máquina ([slides](slides/ciclo/seminar-jorge-ortiz.pdf))([video](https://www.youtube.com/watch?v=ow1QV5lqQ-E)).
 1. 26/04/2023 Mauricio Araneda presentó su seminario titulado: MUSIB: Musical Score Inpainting Benchmark ([slides](slides/mauricio-araneda-seminar.pdf)).
 1. 19/04/2023 Felipe Urrutia presentó su seminario titulado: The Role of Natural Language Processing in Advancing Competency-Based Education and Mathematics Learning in Fourth Graders ([slides](slides/seminar-felipe-urrutia.pdf))
 1. 12/04/2023 [Gabriel Iturra](https://giturra.cl/) presentó su charla de tesis II titulada: RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams ([slides](slides/gabrieliturratesisII.pdf))([vídeo](https://www.youtube.com/watch?v=T0RD3mULe5M)).
@@ -15,7 +15,7 @@ Lenguaje humano vs lenguaje de máquina ([slides](slides/ciclo/seminar-jorge-ort
 in Online Public Consultations ([slides](slides/charla_valentin_barriere.pdf))
 1. 29/03/2023 José Cañete presentó su charla de tesis II titulada: Light and Fast Language Models for
 Spanish Through Compression
-Techniques ([slides](slides/joseca%C3%B1etertesisII.pdf))([vídeo](https://www.youtube.com/watch?v=qKSfwKv3e-0)).
+Techniques ([slides](slides/joseca%C3%B1etertesisII.pdf))([video](https://www.youtube.com/watch?v=qKSfwKv3e-0)).
 
 1. 25/01/2023 Valentin Barriere presentó su seminario titulado: Two improvements for mutli-lingual in-context
 classification over tweets using transformers ([slides](slides/tweetalk.pdf)).
