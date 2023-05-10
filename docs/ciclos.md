@@ -32,7 +32,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 * Miércoles 10 de mayo 4PM
     * Presentador: Felipe Bravo-Márquez DCC Uchile, IMFD, CENIA.
-    * Título: [Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4.](img/ciclo/afiche-felipe-bravo.jpg) 
+    * Título: [Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4](img/ciclo/afiche-felipe-bravo.jpg) ([grabación](https://www.youtube.com/watch?v=XvXeSwO_9ds&t=3495s)).
 
 * Miércoles 17 de mayo 4PM
     * Presentadora: Gabriela Arriagada, IEA, IMC, UC, CENIA.
