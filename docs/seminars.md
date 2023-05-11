@@ -6,6 +6,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
 ## Minutas (In Spanish)
 
+1. 10/05/2023 Ciclo de Charlas ChatGPT: Felipe Bravo presentó su seminario titulado, Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4 ([slides](https://users.dcc.uchile.cl/~fbravo/LMs.pdf))([video](https://www.youtube.com/live/XvXeSwO_9ds?feature=share)).
 1. 04/05/2023 Ciclo de Charlas ChatGPT: Jorge Ortiz presentó su seminario titulado, ¿Puede ChatGPT conquistar el mundo?
 Lenguaje humano vs lenguaje de máquina ([slides](slides/ciclo/seminar-jorge-ortiz.pdf))([video](https://www.youtube.com/watch?v=ow1QV5lqQ-E)).
 1. 26/04/2023 Mauricio Araneda presentó su seminario titulado: MUSIB: Musical Score Inpainting Benchmark ([slides](slides/mauricio-araneda-seminar.pdf)).
