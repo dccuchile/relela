@@ -36,7 +36,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 * Miércoles 17 de mayo 4PM
     * Presentadora: Gabriela Arriagada, IEA, IMC, UC, CENIA.
-    * Título: [Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4.](img/ciclo/afiche-gabriela-arriagada.jpg)
+    * Título: [Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4](img/ciclo/afiche-gabriela-arriagada.jpg), ([grabación](https://www.youtube.com/watch?v=2tBIj2lTApI&t=99s)).
 
 * Miércoles 24 de mayo 4PM 
     * Título: [ChatGPT en la Industria: posibilidades y proyecciones.](img/ciclo/afiche-jp-mp.jpg)
