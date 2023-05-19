@@ -6,8 +6,8 @@
 
 ## Las (im)posibilidades de los Modelos del Lenguaje
 
-* Lugar: Auditorio Ramón Picarte DCC-Uchile.
-* Dirección: Avenida Beauchef 851, Piso 3, Edificio Norte, Santiago. 
+* Lugar: Auditorio Gorbea FCFM-UCHILE.
+* Dirección: Avenida Beauchef 850, Tercer Piso, Edificio Escuela, Santiago. 
 * Organización: [RELELA](https://relela.com/), [DCC Uchile](https://www.dcc.uchile.cl/). 
 * Patrocinadores: [CENIA](https://cenia.cl/), [IMFD](https://imfd.cl/en/).
 * Será en formato híbrido y se transmitirá a través del canal de Youtube del [DCC](https://www.youtube.com/dccuchile).
@@ -39,7 +39,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
     * Título: [Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4](img/ciclo/afiche-gabriela-arriagada.jpg) ([slides](slides/ciclo/seminar-gabriela-arriagada.pdf), [grabación](https://www.youtube.com/watch?v=2tBIj2lTApI&t=99s)).
 
 * Miércoles 24 de mayo 4PM 
-    * Título: [ChatGPT en la Industria: posibilidades y proyecciones.](img/ciclo/afiche-jp-mp.jpg)
+    * Título: [ChatGPT en la Industria: posibilidades y proyecciones.](img/ciclo/afiche-jp-mp-update.jpg)
     * Charla 1: "IA sin farándula" por Jorge Pérez (CERO).
     * Charla 2:  "GPT y Agentes, Como Conversar con tu App" por Manuel Peña (Fintual).
     
@@ -139,7 +139,7 @@ Ha trabajado como docente en el sistema escolar enseñando física, electrónica
 
 ### ChatGPT en la Industria: posibilidades y proyecciones.
 
-<img src="../img/ciclo/afiche-jp-mp.jpg" alt="alt text" width="80%" height="80%">
+<img src="../img/ciclo/afiche-jp-mp-update.jpg" alt="alt text" width="80%" height="80%">
 
 ### Alcances y límites de los modelos de lenguaje.
 
