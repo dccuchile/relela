@@ -1,5 +1,3 @@
-<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScYHfTpXAEk1L7Zl73tcAuV_TKAJpExfvCTizx2y6hMJs9FLw/viewform?embedded=true" width="640" height="790" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe> -->
-
 # Ciclos de Charlas ReLeLa
 
 <img src="../img/ciclo/afiche2.jpg" alt="alt text" width="80%" height="80%"> 
@@ -39,7 +37,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
     * Título: [Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4](img/ciclo/afiche-gabriela-arriagada.jpg) ([slides](slides/ciclo/seminar-gabriela-arriagada.pdf), [grabación](https://www.youtube.com/watch?v=2tBIj2lTApI&t=99s)).
 
 * Miércoles 24 de mayo 4PM 
-    * Título: [ChatGPT en la Industria: posibilidades y proyecciones.](img/ciclo/afiche-jp-mp-update.jpg)
+    * Título: [ChatGPT en la Industria: posibilidades y proyecciones](img/ciclo/afiche-jp-mp-update.jpg), ([grabación](https://www.youtube.com/watch?v=nsHBAVzSKOs&t=464s)).
     * Charla 1: "IA sin farándula" por Jorge Pérez (CERO).
     * Charla 2:  "GPT y Agentes, Como Conversar con tu App" por Manuel Peña (Fintual).
     
