@@ -7,12 +7,16 @@ We count with the following GPU-equipped machines:
 ### RELELA-01
 
 * CPU: Intel Core i7-9700F
+
 * RAM:  128 GB DDR4
+
 * HDD1: 500GB  Crucial P2 PCIe M.2 NVME
+
 * HDD2: 480GB  WDC WDS480G2G0B M.2 SATA3
-* GPU0: GeForce RTX 2080 8GB
+
+* GPU0: GeForce RTX 3090 24GB
+
 * GPU1: GeForce RTX 3090 24GB
-* GPU2: GeForce RTX 2080 8GB
 
      
 
