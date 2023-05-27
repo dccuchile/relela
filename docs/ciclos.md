@@ -39,7 +39,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 * Miércoles 24 de mayo 4PM 
     * Título: [ChatGPT en la Industria: posibilidades y proyecciones](img/ciclo/afiche-jp-mp-update.jpg), ([grabación](https://www.youtube.com/watch?v=nsHBAVzSKOs&t=464s)).
     * Charla 1: "IA sin farándula" por Jorge Pérez (CERO).
-    * Charla 2:  "GPT y Agentes, Como Conversar con tu App" por Manuel Peña (Fintual).
+    * Charla 2:  "GPT y Agentes, Como Conversar con tu App" por Manuel Peña (Fintual) ([slides](slides/ciclo/seminar-manuel-pena.pdf)).
     
 
 
