@@ -4,8 +4,8 @@
 
 ## Las (im)posibilidades de los Modelos del Lenguaje
 
-* Lugar: Auditorio Gorbea FCFM-UCHILE.
-* Dirección: Avenida Beauchef 850, Tercer Piso, Edificio Escuela, Santiago. 
+* Lugar: Auditorio Ramón Picarte, DCC UCHILE.
+* Dirección: Avenida Beauchef 851, Tercer Piso, Edificio Norte, Santiago. 
 * Organización: [RELELA](https://relela.com/), [DCC Uchile](https://www.dcc.uchile.cl/). 
 * Patrocinadores: [CENIA](https://cenia.cl/), [IMFD](https://imfd.cl/en/).
 * Será en formato híbrido y se transmitirá a través del canal de Youtube del [DCC](https://www.youtube.com/dccuchile).
