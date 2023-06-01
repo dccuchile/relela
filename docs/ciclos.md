@@ -30,7 +30,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 * Miércoles 10 de mayo 4PM
     * Presentador: Felipe Bravo-Márquez DCC Uchile, IMFD, CENIA.
-    * Título: [Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4](img/ciclo/afiche-felipe-bravo.jpg) ([slides](https://users.dcc.uchile.cl/~fbravo/LMs.pdf), [grabación](https://www.youtube.com/watch?v=XvXeSwO_9ds&t=3495s)).
+    * Título: [Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4](img/ciclo/afiche-felipe-bravo.jpg) ([slides](slides/ciclo/seminar-felipe-bravo.pdf), [grabación](https://www.youtube.com/watch?v=XvXeSwO_9ds&t=3495s)).
 
 * Miércoles 17 de mayo 4PM
     * Presentadora: Gabriela Arriagada, IEA, IMC, UC, CENIA.
@@ -38,7 +38,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 * Miércoles 24 de mayo 4PM 
     * Título: [ChatGPT en la Industria: posibilidades y proyecciones](img/ciclo/afiche-jp-mp-update.jpg), ([grabación](https://www.youtube.com/watch?v=nsHBAVzSKOs&t=464s)).
-    * Charla 1: "IA sin farándula" por Jorge Pérez (CERO).
+    * Charla 1: "IA sin farándula" por Jorge Pérez (CERO) ([slides](slides/ciclo/seminar-jorge-perez.pdf)).
     * Charla 2:  "GPT y Agentes, Como Conversar con tu App" por Manuel Peña (Fintual) ([slides](slides/ciclo/seminar-manuel-pena.pdf)).
     
 
