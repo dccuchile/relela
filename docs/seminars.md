@@ -10,7 +10,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
     * Panelitas: 
         * Cristián Buc (CENIA).
         * Magdalena Saldaña (UC/IMFD)
-        *  Martín Cáceres (MINEDUC)
+        * Martín Cáceres (MINEDUC)
         * Felipe Tobar (IDIA Uchile, CMM)
     * Moderador: Claudio Gutiérrez
 1. 24/05/2023 Ciclo de charlas ChatGPT en la Industria: posibilidades y proyecciones ([video](https://www.youtube.com/watch?v=nsHBAVzSKOs&t=464s)):
