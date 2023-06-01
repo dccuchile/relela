@@ -9,10 +9,10 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 1. 31/05/2023 Ciclo de charlas ChatGPT: Panel de Discusión - Alcances y límites de los modelos de lenguaje.
     * Panelitas: 
         * Cristián Buc (CENIA).
-        * Magdalena Saldaña (UC/IMFD)
-        * Martín Cáceres (MINEDUC)
-        * Felipe Tobar (IDIA Uchile, CMM)
-    * Moderador: Claudio Gutiérrez
+        * Magdalena Saldaña (UC/IMFD).
+        * Martín Cáceres (MINEDUC).
+        * Felipe Tobar (IDIA Uchile, CMM).
+    * Moderador: Claudio Gutiérrez (DCC-IMFD).
 1. 24/05/2023 Ciclo de charlas ChatGPT en la Industria: posibilidades y proyecciones ([video](https://www.youtube.com/watch?v=nsHBAVzSKOs&t=464s)):
     * Jorge Peréz presentó su seminario: IA sin farándula ([slides](slides/ciclo/seminar-jorge-perez.pdf)).
     * Manuel Peña presentó su seminario: GPT y Agentes, Como Conversar con tu App ([slides](slides/ciclo/seminar-manuel-pena.pdf)). 
