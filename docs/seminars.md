@@ -8,7 +8,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
 1. 31/05/2023 Ciclo de charlas ChatGPT: Panel de Discusión - Alcances y límites de los modelos de lenguaje.
     * Panelitas: 
-        * Cristián Buc (CENIA).
+        * Cristián Buc (CENIA), [slides](slides/ciclo/seminar-cristian-buc.pdf) mini-presentación.
         * Magdalena Saldaña (UC/IMFD).
         * Martín Cáceres (MINEDUC).
         * Felipe Tobar (IDIA Uchile, CMM).

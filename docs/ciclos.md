@@ -45,7 +45,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 * Miércoles 31 de mayo 4PM
     * Título: [Panel de Discusión  - Alcances y límites de los modelos de lenguaje.](img/ciclo/afiche-conversatorio.jpg)
-    * Panelistas: Cristián Buc (CENIA), Magdalena Saldaña (UC/IMFD),  Martín Cáceres (MINEDUC) y Felipe Tobar (IDIA Uchile, CMM).
+    * Panelistas: Cristián Buc (CENIA), Magdalena Saldaña (UC/IMFD),  Martín Cáceres (MINEDUC) y Felipe Tobar (IDIA Uchile, CMM). [slides](slides/ciclo/seminar-cristian-buc.pdf) mini-presentación Cristián Buc.
     * Moderador: Claudio Gutiérrez (DCC Uchile, IMFD).
 
 
