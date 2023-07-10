@@ -6,6 +6,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
 ## Minutas (In Spanish)
 
+1. 10/07/2023 Mircea Petrache presentó su seminario titulado: Conformal Language Modeling ([slides](slides/mircea-petrache-seminarII.pdf)).
 1. 07/05/2023 Edison Marrese-Taylor presentó su seminario titulado: Learning to Represent Edits ([slides](slides/seminar-edison-marrese-taylor.pdf)).
 1. 31/05/2023 Ciclo de charlas ChatGPT: Panel de Discusión - Alcances y límites de los modelos de lenguaje.
     * Panelitas: 
