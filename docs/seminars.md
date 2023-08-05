@@ -6,6 +6,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
 ## Minutas (In Spanish)
 
+1. 02/08/2023 Ricardo Baeza-Yates presentó su seminario titulado: Inteligencia Artificial Responsable ([video](https://www.youtube.com/watch?v=e50G7mIEvoY&ab_channel=DCCUChile)).
 1. 10/07/2023 Mircea Petrache presentó su seminario titulado: Conformal Language Modeling ([slides](slides/mircea-petrache-seminarII.pdf)).
 1. 07/05/2023 Edison Marrese-Taylor presentó su seminario titulado: Learning to Represent Edits ([slides](slides/seminar-edison-marrese-taylor.pdf)).
 1. 31/05/2023 Ciclo de charlas ChatGPT: Panel de Discusión - Alcances y límites de los modelos de lenguaje.
