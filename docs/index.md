@@ -26,8 +26,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 ## Students
 
 ### PhD Students
-1. Juglar Díaz
-2. Hernán Sarmiento
+
 3. Aymé Arango
 4. Rolando Kindelan 
 5. Jesus Perez-Martin
@@ -64,6 +63,8 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 ### Alumni 
 
 1. [José Cañete](https://josecannete.github.io/) 
+1. Juglar Díaz
+2. Hernán Sarmiento
 1. Matías Rojas
 2. Cristián Ahumada 
 3. Constanza Fierro 
