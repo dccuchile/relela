@@ -40,7 +40,6 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 2. Juan-Pablo Silva
 3. Jorge Ortiz
 4. Bastián Matamala
-5. [Gabriel Iturra-Bocaz](https://giturra.cl/)
 6. Mauricio Araneda
 8. Gabriel Chaperón 
 9. Ignacio Meza 
@@ -62,6 +61,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 
 ### Alumni 
 
+5. [Gabriel Iturra-Bocaz](https://giturra.cl/)
 1. [José Cañete](https://josecannete.github.io/) 
 1. Juglar Díaz
 2. Hernán Sarmiento
