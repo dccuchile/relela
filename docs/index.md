@@ -36,11 +36,11 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 
 
 ### Masters Students
+
 1. Daniel Aguirre
 2. Juan-Pablo Silva
 3. Jorge Ortiz
 4. Bastián Matamala
-6. Mauricio Araneda
 8. Gabriel Chaperón 
 9. Ignacio Meza 
 10. María José Zambrano
@@ -60,7 +60,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 4. Rodrigo Urrea
 
 ### Alumni 
-
+6. Mauricio Araneda
 5. [Gabriel Iturra-Bocaz](https://giturra.cl/)
 1. [José Cañete](https://josecannete.github.io/) 
 1. Juglar Díaz
