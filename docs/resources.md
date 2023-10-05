@@ -14,9 +14,9 @@ We count with the following GPU-equipped machines:
 
 * HDD2: 480GB  WDC WDS480G2G0B M.2 SATA3
 
-* GPU0: GeForce RTX 3090 24GB
+* GPU0: GeForce RTX 2080 8GB
 
-* GPU1: GeForce RTX 3090 24GB
+  GPU1: GeForce RTX 2080 8GB
 
      
 
@@ -77,7 +77,14 @@ We count with the following GPU-equipped machines:
 
 
 
- 
+### RELELA-07
+
+* CPU: Intel Core i7-11700K
+* RAM: 128 GB DDR4 
+* HDD1: 2TB KINGSTON SFYRD2000G PCIe M.2 NVME
+* HDD2: 2TB KINGSTON SFYRD2000G PCIe M.2 NVME
+* GPU0: GeForce RTX 3090 24GB
+* GPU1: GeForce RTX 3090 24GB 
 
 
 
