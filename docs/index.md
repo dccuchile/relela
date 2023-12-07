@@ -9,16 +9,17 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 
 1. [Andrés Abeliuk](https://scholar.google.com/citations?user=qKqH1lcAAAAJ&hl=en&oi=ao)
 2. [Ricardo Baeza-Yates](https://users.dcc.uchile.cl/~rbaeza/)
-3. [Felipe Bravo-Marquez](https://felipebravom.com/)
-4. [Benjamín Bustos](https://users.dcc.uchile.cl/~bebustos/)
-5. [Jocelyn Dunstan](https://sites.google.com/view/jdunstan/home)
-6. [Eduardo Graells-Garrido](http://datagramas.cl/)
-7. [Claudio Gutiérrez](https://users.dcc.uchile.cl/~cgutierr/)
-8. [Aidan Hogan](https://aidanhogan.com/)
-9. [Jorge Pérez](https://users.dcc.uchile.cl/~jperez/)
-10. [Bárbara Poblete](https://www.barbara.cl/)
-11. [Iván Sipirán](http://www.ivan-sipiran.com/)
-12. [Jorge Silva](https://jorgesil77.github.io/)
+3. [Valentin Barriere](https://scholar.google.fr/citations?user=5HX-EfcAAAAJ&hl=fr)
+4. [Felipe Bravo-Marquez](https://felipebravom.com/)
+5. [Benjamín Bustos](https://users.dcc.uchile.cl/~bebustos/)
+6. [Jocelyn Dunstan](https://sites.google.com/view/jdunstan/home)
+7. [Eduardo Graells-Garrido](http://datagramas.cl/)
+8. [Claudio Gutiérrez](https://users.dcc.uchile.cl/~cgutierr/)
+9. [Aidan Hogan](https://aidanhogan.com/)
+10. [Jorge Pérez](https://users.dcc.uchile.cl/~jperez/)
+11. [Bárbara Poblete](https://www.barbara.cl/)
+12. [Iván Sipirán](http://www.ivan-sipiran.com/)
+13. [Jorge Silva](https://jorgesil77.github.io/)
 
 
 
@@ -79,7 +80,6 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 ## Collaborators
 
 1. [Mircea Petrache](https://sites.google.com/site/mircpetrache/home)
-1. [Valentin Barriere](https://scholar.google.fr/citations?user=5HX-EfcAAAAJ&hl=fr)
 1. [Cristian Rodriguez](https://crodriguezo.github.io)
 1. [Edison Marrese-Taylor](https://epochx.github.io)
 1. [Mauricio Quezada](https://users.dcc.uchile.cl/~mquezada/)
