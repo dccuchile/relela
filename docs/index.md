@@ -79,6 +79,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 
 ## Collaborators
 
+1. [Cristian Buc Calderon](https://scholar.google.com/citations?user=0gXva0YAAAAJ&hl=en&oi=ao)
 1. [Mircea Petrache](https://sites.google.com/site/mircpetrache/home)
 1. [Cristian Rodriguez](https://crodriguezo.github.io)
 1. [Edison Marrese-Taylor](https://epochx.github.io)
