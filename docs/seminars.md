@@ -7,6 +7,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 ## Minutas (In Spanish)
 
 1. 14/12/2023 [Felipe Bravo-Marquez](https://felipebravom.com/), en conjunto con el CENIA, presentó su seminario titulado: Natural Language Processing Large Language Models Usage and Evaluation Patterns ([slides](slides/NLP-LLMpatterns.pdf))([video](https://www.youtube.com/watch?v=l2WpZC4dBAs&feature=youtu.be)).
+1. [Felipe Urrutia](https://www.dim.uchile.cl/~furrutia/) presentó su seminario titulado: Deep Natural Language Feature Learning for Interpretable Prediction presentado en la Conferencia Internacional EMNLP 2024 ([slides](slides/EMNLP_NLLF_presentation.pdf)).
 1. 24/10/2023 [Felipe Bravo-Marquez](https://felipebravom.com/) presentó su seminario titulado Un recorrido por los modelos de lenguaje: Desde Shannon a GPT-4 en las [JJC 2023](https://jcc2023.cl/) ([slides](slides/HistoriaLM.pdf)).
 1. 02/08/2023 Ricardo Baeza-Yates presentó su seminario titulado: Inteligencia Artificial Responsable ([video](https://www.youtube.com/watch?v=e50G7mIEvoY&ab_channel=DCCUChile)).
 1. 10/07/2023 Mircea Petrache presentó su seminario titulado: Conformal Language Modeling ([slides](slides/mircea-petrache-seminarII.pdf)).
