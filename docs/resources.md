@@ -16,7 +16,7 @@ We count with the following GPU-equipped machines:
 
 * GPU0: GeForce RTX 2080 8GB
 
-  GPU1: GeForce RTX 2080 8GB
+* GPU1: GeForce RTX 2080 8GB
 
      
 
@@ -87,5 +87,14 @@ We count with the following GPU-equipped machines:
 * GPU1: GeForce RTX 3090 24GB 
 
 
+
+### RELELA-08
+
+* CPU: Intel Core i7-12700K
+* RAM: 128 GB DDR5
+* HDD1: 2TB KINGSTON SKC3000D2048G PCIe M.2 NVME
+* HDD2: 2TB KINGSTON SKC3000D2048G PCIe M.2 NVME
+* GPU0: GeForce RTX 3090 24GB
+* GPU1: GeForce RTX 3090 24GB 
 
  
