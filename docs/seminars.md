@@ -6,6 +6,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
 ## Minutas (In Spanish)
 
+1. 10/07/2024 Fabián villegas presentó su seminario titulado: Despliegue local de grandes modelos de lenguaje de pesos libres y su consumo ([slides](slides/llm_deployment_and_consumption_tutorial.pdf)).
 1. 12/06/2024 Andrés Abeliuk presentó su seminario titulado: LLMs, Una Perspectiva desde la Ciencia de la Complejidad ([slides](slides/RELELA-24LLM%20complexity.pdf))([video](https://drive.google.com/file/d/1ekFaSkY1fJZUyrM5CD0PQuLBO7v6hLOY/view?usp=sharing))
 1. 26/12/2023 Germán Johannsen del Max Planck Institute for Innovation and Competition presentó: Regulación de IA y Datos. Algunas Tendencias en la UE ([slides](slides/charlaGerman.pdf)).
 2. 14/12/2023 [Felipe Bravo-Marquez](https://felipebravom.com/), en conjunto con el CENIA, presentó su seminario titulado: Natural Language Processing Large Language Models Usage and Evaluation Patterns ([slides](slides/NLP-LLMpatterns.pdf))([video](https://www.youtube.com/watch?v=l2WpZC4dBAs&feature=youtu.be)).
