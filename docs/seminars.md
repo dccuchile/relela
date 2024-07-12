@@ -47,6 +47,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
        * Profesores de ReLeLa incorporarán a sus estudiantes.
        * Presentación periodica de papers (semanal).
        * Definir roles en el grupo.
+       
 22. 21/12/2022 Se presentaron 2 charlas de Tesis I de magíster, 1) Clemente Henríquez: Evolution of topic and issues in Chilean news ([slides](slides/presentacion.pdf)), 2) Ignacio Meza: Benchmarking video action features for the video temporary sentence grounding task ([slides](slides/Benchmarking_video_action_features_for_the_video_temporary_sentence.pdf)).
 23. 14/12/2022 Jorge Ortiz presentó su charla de Tesis I de magíster titulada: "Attitude Analysis: a linguistic-based task for detailed position detection in texts"  ([slides](slides/2022-12-14 Jorge Ortiz.pdf)).
 24. 07/12/2022 María José Zambrano presentó su charla de Tesis I de magíster titulada: "Comparison and Improvement of Bias Mitigation Algorithms for Word Embeddings"  ([slides](slides/2012-12-07 María José Zambrano.pdf)).
@@ -62,8 +63,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 34. 29/09/2021 Cristian Ahumada presentó su trabajo: "Diseño y desarrollo de un software de apoyo para el aprendizaje del Mapuzugun"
 35. 22/09/2021 Mauricio Araneda presentó un tutorial sobre VAEs. ([slides](slides/understanding_variational_encoders.pdf))
 36. 01/09/2021 Pablo Badilla nos habló sobre su trabajo en el proyecto "lxs 400 "
-37. 07/07/2021 Los alumnos de magíster Bastián Matamala, Mauricio Araneda y Gabriel Iturra presentaron sus charlas de 
-       Tesis I.
+37. 07/07/2021 Los alumnos de magíster Bastián Matamala, Mauricio Araneda y Gabriel Iturra presentaron sus charlas de Tesis I.
 38. 05/05/2021  Carolina Chiu habló sobre el testeo de word embeddings en el contexto clínico.
 39. 21/04/2021 [Cristián Candia](https://crcandia.github.io/crcandiav/) (UDD) nos habló sobre su trabajo en "Inteligencia Colectiva".
 40. 14/04/2021 Gastón L'huillier nos habló sobre Machine Learning Engineering, infraestructura y todos los desafíos de poner en modelos en producción. ([slides](slides/Machine_Learning_Engineering_Gaston.pdf))
@@ -92,6 +92,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
        1. Idea interesante de ELECTRA: tener dos redes adversariales donde la primera genera oraciones corrompidas pero altamente probables (se reemplazan ciertas palabras por un muestreo de la salida de una softmax). Esto reemplaza la idea de hacer masking en BERT. La segunda red recibe las oraciones corrompidas de la primera y aprende a discriminar las palabras originales de las falsas (esto se hace con un sigmoide).
        2. Idea interesante de ALBERT: usar un embedding layer de menor dimensionalidad que se aumenta luego con una capa de proyección. Esto reduce el número de parámetros respecto a BERT. Además se propone reemplazar la task de next sentence prediction por una que tome dos oraciones consecutivas, las desordene en algunos casos, y prediga si tienen el orden correcto. El argumento es que la tarea de next sentence prediction de BERT (que pone pares de oraciones aleatorias en los ejemplos negativos) es un muy simple.
+
 63. 25/09/2019: [Wladmir Cardoso Brandão](http://www.wladmirbrandao.com) presentó [InferSent](https://github.com/facebookresearch/InferSent), una técnica para entrenar sentence embeddings usando datos de la Natural Language Inference task.
 64. 11/09/2019: Henry Rosales presentó su artículo publicado en EMNLP sobre Entity Linking.
 65. 04/09/2019: vimos la segunda parte del video de MultiTask Learning. Algunos conceptos interesantes: pointer networks (capas basadas en atención para copiar partes del input), anti-curriculum training (aprender primero lo más díficil para evitar quedar en óptimo local).
