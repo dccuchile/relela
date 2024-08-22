@@ -6,6 +6,7 @@ Some of our seminars are available in our [Playlist](https://youtube.com/playlis
 
 ## Minutas (In Spanish)
 
+1. 21/08/2024 María José Zambrano presentó su charla de tesis II, titulada: Towards Fairer Word Embeddings: Methodologies for Comparing and Optimizing Bias Mitigation Algorithms ([slides](slides/presentation%20tesis%20II-1.pdf)). 
 1. 10/07/2024 [Fabián Villena](https://villena.cl/) presentó su seminario titulado: Despliegue local de grandes modelos de lenguaje de pesos libres y su consumo ([slides](slides/llm_deployment_and_consumption_tutorial.pdf))([video](https://drive.google.com/file/d/1a7rF6Chr18PTB-KbFvftVGla_kOIhX3y/view?usp=sharing)).
 1. 12/06/2024 Andrés Abeliuk presentó su seminario titulado: LLMs, Una Perspectiva desde la Ciencia de la Complejidad ([slides](slides/RELELA-24LLM%20complexity.pdf))([video](https://drive.google.com/file/d/1ekFaSkY1fJZUyrM5CD0PQuLBO7v6hLOY/view?usp=sharing))
 1. 26/12/2023 Germán Johannsen del Max Planck Institute for Innovation and Competition presentó: Regulación de IA y Datos. Algunas Tendencias en la UE ([slides](slides/charlaGerman.pdf)).
