@@ -22,7 +22,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 13. [Iván Sipirán](http://www.ivan-sipiran.com/)
 14. [Jorge Silva](https://jorgesil77.github.io/)
 15. [Matías Toro](https://pleiad.cl/people/mtoro)
-
+16. [Sebastián Ríos](https://www.dii.uchile.cl/~srios/)
 
 
 
