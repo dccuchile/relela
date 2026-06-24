@@ -61,6 +61,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 14. Sebastián Tinoco
 15. [Felipe Urrutia](http://dim.uchile.cl/~furrutia/)
 16. Victor Faraggi
+17. Fabrizzio Pezzolla
 
 ### Undergrad Students
 
@@ -137,7 +138,6 @@ Members of our group participate or interact with the following other research g
 1. [Grupo de Aprendizaje de Máquinas, infErencia y Señales (GAMES)](http://games.cmm.uchile.cl/)
 1. [Machine Learning Group - University of Waikato](https://www.cs.waikato.ac.nz/ml/)
 1. [Impresee eCommerce Labs](https://impresee.com/ecommerce-labs/)
-
 
 
 
