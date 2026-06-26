@@ -1,8 +1,60 @@
 # Ciclos de Charlas ReLeLa
 
-<img src="../img/ciclo/afiche2.jpg" alt="alt text" width="80%" height="80%"> 
+## Charlas: IA Estamos! (2026)
 
-## Las (im)posibilidades de los Modelos del Lenguaje
+**IA Estamos!** es el ciclo de charlas organizado por RELELA junto al Departamento de Ciencias de la Computación (DCC), el Centro de Modelamiento Matemático (CMM) y la Iniciativa de Datos e Inteligencia Artificial (IDIA) de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
+
+### Arie Wortsman Zurich
+
+**Scaling Laws from Sequential Feature Recovery: A Solvable Model**
+
+*Center for Data Science, ENS Paris &middot; Miércoles 24 de junio de 2026, 15:00 — Sala Multimedia CMM (6° piso, entrada por el 7°).*
+
+<img src="../img/ciclo/afiche-arie-wortsman.png" alt="Afiche: Arie Wortsman Zurich" width="45%">
+
+Proponemos un mecanismo simple mediante el cual las leyes de escala (scaling laws) surgen del aprendizaje de características (feature learning) en redes multicapa. Estudiamos un objetivo jerárquico de alta dimensión que es, a nivel global, una función de alto grado, pero que puede ser representado mediante una combinación de características compositivas latentes cuyos pesos disminuyen según una ley de potencias. Probamos la existencia de umbrales de recuperación precisos para cada característica y mostramos que la agregación de estas transiciones produce un decaimiento explícito en forma de ley de potencias del error de predicción. Los experimentos numéricos confirman la recuperación secuencial predicha, el suavizado de los umbrales en tamaños finitos y la separación con respecto a los modelos de referencia (baselines) de kernel no jerárquicos. En conjunto, estos resultados muestran cómo pueden surgir leyes de escala suaves a partir de una cascada de transiciones abruptas en el aprendizaje de características.
+
+### Maximilian Leutschafft
+
+**Need for Speed – Will AI Overtake Aerodynamic Simulations?**
+
+*Technical University of Munich, Germany &middot; Miércoles 17 de junio de 2026, 12:30 — OpenBeauchef.*
+
+<img src="../img/ciclo/afiche-maximilian-leutschafft.png" alt="Afiche: Maximilian Leutschafft" width="45%">
+
+Probar diseños en simulaciones virtuales es una práctica estándar en la ingeniería moderna. Lamentablemente, estas simulaciones suelen tardar horas o incluso días en completarse, lo que limita la productividad en el área. Los modelos modernos de inteligencia artificial prometen predecir esas mismas soluciones en cuestión de segundos. Durante la presentación, cuestionaremos esta promesa, resumiremos los principios fundamentales, exploraremos soluciones de vanguardia y hablaremos sobre los obstáculos actuales.
+
+### José Guillén
+
+**A Simple Method to Enhance Pre-trained Language Models with Speech Tokens for Classification**
+
+*CENIA &middot; Miércoles 3 de junio de 2026, 12:30 — OpenBeauchef, 2° piso edificio poniente, Av. Beauchef 851.*
+
+<img src="../img/ciclo/afiche-jose-guillen.png" alt="Afiche: José Guillén" width="45%">
+
+Los modelos de lenguaje suelen trabajar principalmente con texto, dejando de lado información valiosa presente en la voz, como el tono o la entonación. En esta charla se presentará un método simple y eficiente para incorporar señales de audio a modelos de lenguaje preentrenados, mejorando su desempeño en tareas de clasificación. Los resultados muestran que esta estrategia permite aprovechar información del habla de manera efectiva, obteniendo mejores resultados en aplicaciones como la detección de falacias argumentativas y el análisis de emociones.
+
+*Sobre el expositor:* José Guillén es Research Engineer en CENIA y estudiante de magíster en la Universidad Técnica Federico Santa María. Su investigación se centra en aprendizaje multimodal, modelos de lenguaje, robótica social e inteligencia artificial aplicada a problemas ambientales.
+
+**Enlaces:** [Artículo](https://arxiv.org/pdf/2512.07571) &middot; [Slides](slides/2026-06-03-jose-guillen-speech-tokens-classification.pdf)
+
+### Yannis Karmim
+
+**Understand memorisation and knowledge acquisition in LLM**
+
+*Miércoles 6 de mayo de 2026, 12:30 — Sala P303 Philippe Flajolet, DCC.*
+
+La charla discutió cómo los grandes modelos de lenguaje memorizan y adquieren conocimiento, a partir del trabajo en un dataset para evaluar conocimiento sobre cultura LATAM.
+
+**Enlaces:** [Slides](slides/2026-05-06-yannis-karmim-knowledge-acquisition-llm.pdf)
+
+---
+
+## Ediciones anteriores
+
+### Charlas: Las (im)posibilidades de los Modelos del Lenguaje (2023)
+
+<img src="../img/ciclo/afiche2.jpg" alt="alt text" width="80%" height="80%"> 
 
 * Lugar: Auditorio Ramón Picarte, DCC UCHILE.
 * Dirección: Avenida Beauchef 851, Tercer Piso, Edificio Norte, Santiago. 
@@ -10,9 +62,9 @@
 * Patrocinadores: [CENIA](https://cenia.cl/), [IMFD](https://imfd.cl/en/).
 * Será en formato híbrido y se transmitirá a través del canal de Youtube del [DCC](https://www.youtube.com/dccuchile).
 
-## [Inscripciones](https://forms.gle/RjKCg7N7uPbyHgcH6)
+#### [Inscripciones](https://forms.gle/RjKCg7N7uPbyHgcH6)
 
-## Sobre el evento
+#### Sobre el evento
 
 La creciente importancia y la masividad que han adquirido recientemente los modelos de lenguaje como ChatGPT ha generado en la ciudadanía preocupaciones sobre sus condiciones de posibilidad y sus limitaciones. Debido a la naturaleza multidisciplinaria de la problemática, se requiere crear espacios de diálogo, difusión y la colaboración entre expertos de diferentes áreas.
 
@@ -22,7 +74,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 
 
-## Cronograma
+#### Cronograma
 
 * Miércoles 3 de mayo 4PM
     * Presentador: Presentador: Jorge Ortiz DCC Uchile, IMFD, Awto.
@@ -50,9 +102,9 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 
 
 
-## Expositores
+#### Expositores
 
-### [Felipe Bravo-Márquez](https://felipebravom.com/)
+##### [Felipe Bravo-Márquez](https://felipebravom.com/)
 
 <img src="../img/ciclo/felipe.png" alt="alt text" width="30%" height="30%"> 
 
@@ -61,7 +113,7 @@ El objetivo de este ciclo es brindar una visión amplia y crítica sobre el desa
 Realizó su doctorado en el grupo Machine Learning de la Universidad de Waikato, Nueva Zelanda, donde también trabajó como Research Fellow durante dos años. Sus intereses de investigación abarcan las áreas del procesamiento del lenguaje natural (NLP), el aprendizaje automático (ML), la inteligencia artificial (AI) y la recuperación de información (IR).
 
 
-### [Jorge Ortiz Fuentes](https://www.ortizfuentes.com/)
+##### [Jorge Ortiz Fuentes](https://www.ortizfuentes.com/)
 
 <img src="../img/ciclo/jorge.jpg" alt="alt text" width="30%" height="30%">  
 
@@ -69,13 +121,13 @@ Data Scientist y Lingüista.
 
 **Licenciado en Letras Hispánicas de la Pontificia Universidad Católica, Magíster (c) en Ciencias de la Computación de la Universidad de Chile y Estudiante IMFD**. Sus áreas de investigación y desarrollo abarcan el procesamiento de Lenguaje Natural, la Ciencia de Datos y la Lingüística. Actualmente se desempeña como Machine Learning Engineer en Awto.
 
-### [Gabriela Arriagada](https://www.linkedin.com/in/gabriela-arriagada-bruneau-7a294892/)
+##### [Gabriela Arriagada](https://www.linkedin.com/in/gabriela-arriagada-bruneau-7a294892/)
 
 <img src="../img/ciclo/gabriela-arriagada.JPG" alt="alt text" width="30%" height="30%"> 
 
 **Profesora Asistente, Instituto de Ética Aplicada (IEA) & Instituto de Ingeniería Matemática y Computacional (IMC), UC, Investigadora CENIA. Candidata a Doctor en Filosofía y Ética Aplicada de la Universidad de Leeds, Inglaterra**.  La mayor parte de su trabajo se centra en la ética aplicada. Actualmente investiga sobre sesgo, equidad y explicabilidad en IA y ciencia de datos.
 
-### [Jorge Peréz](https://www.linkedin.com/in/jorge-p%C3%A9rez-a904a1214/)
+##### [Jorge Peréz](https://www.linkedin.com/in/jorge-p%C3%A9rez-a904a1214/)
 
  <img src="../img/ciclo/jorge-perez.png" alt="alt text" width="30%" height="30%">  
 
@@ -84,19 +136,19 @@ Data Scientist y Lingüista.
 Cero.ai es una empresa que apoya a que los pacientes lleguen a sus citas a la hora y preparados. Actualmente dirige el desarrollo en inteligencia artificial del  producto, y está a cargo de las  ventas a instituciones públicas de salud. Antes de cero.ai fue académico e investigador universitario por más de 15 años (DCC Uchile) y estudió un PhD en Computación (UC). Su área principal de investigación es el Procesamiento de Lenguaje Natural y Redes Neuronales Profundas.
 
 
-### [José Manuel Peña](https://www.linkedin.com/in/jose-manuel-pena/)
+##### [José Manuel Peña](https://www.linkedin.com/in/jose-manuel-pena/)
 
 <img src="../img/ciclo/manuel-pena.png" alt="alt text" width="30%" height="30%"> 
 
 **Senior Portfolio Manager en Fintual, Ingeniero Civil Industrial de la Universidad de Chile, Chartered Financial Analyst (CFA) y Master en Applied Analytics de la Universidad de Columbia en Nueva York**. Ha ejercido cargos en la industria financiera en áreas de análisis, desarrollo y gestión de portafolios para clientes privados y fondos de pensiones, además de haber realizado emprendimientos en áreas de analytics e inteligencia artificial. Manu también es Regional Chair del Columbia SPS Career Coalition y miembro de la comisión de Inteligencia Artificial y Big Data del Instituto de Ingenieros de Chile.
 
-### [Cristián Buc](https://scholar.google.com/citations?user=0gXva0YAAAAJ&hl=fr) 
+##### [Cristián Buc](https://scholar.google.com/citations?user=0gXva0YAAAAJ&hl=fr) 
 
 <img src="../img/ciclo/cristian-buc.png" alt="alt text" width="30%" height="30%"> 
 
 **Investigador CENIA: Jefe del grupo científico @ CENIA. PhD en Neurociencias Computacionales Cognitivas de la Universidad Libre de Bruselas, postdoctorados en Ghent University y Brown University**. Su área de investigación emerge de la intersección entre Neurociencias e IA. En particular, su trabajo se centra en el desarrollo de redes neuronales inspiradas en funciones y mecanismos cerebrales.
 
-### [Magdalena Saldaña](https://comunicaciones.uc.cl/facultad/personas/magdalena-saldana-villa/)
+##### [Magdalena Saldaña](https://comunicaciones.uc.cl/facultad/personas/magdalena-saldana-villa/)
 
 <img src="../img/ciclo/magdalena-saldaña.jpg" alt="alt text" width="30%" height="30%"> 
 
@@ -105,7 +157,7 @@ Cero.ai es una empresa que apoya a que los pacientes lleguen a sus citas a la ho
 Doctora en Periodismo y Comunicación de Masas, University of Texas- Austin (Estados Unidos). Magíster en Investigación Social y Desarrollo, Universidad de Concepción. Periodista, Universidad de Concepción. Sus áreas de investigación son: Medios digitales, comunicación política, opinión pública y estudios latinoamericanos.
 
 
-### [Felipe Tobar](https://www.dim.uchile.cl/~ftobar/)
+##### [Felipe Tobar](https://www.dim.uchile.cl/~ftobar/)
 
 <img src="../img/ciclo/felipe-tobar.jpg" alt="alt text" width="30%" height="30%"> 
 
@@ -113,7 +165,7 @@ Doctora en Periodismo y Comunicación de Masas, University of Texas- Austin (Est
 
 Su investigación se sitúa entre el Aprendizaje Automático Estadístico y el Procesamiento de Señales, incluyendo inferencia aproximada, inferencia no-paramétrica bayesiana, estimación espectral y transporte óptimo computacional.
 
-### [Martín Cáceres](https://www.linkedin.com/in/mart%C3%ADn-c%C3%A1ceres-murrie-02785289/)
+##### [Martín Cáceres](https://www.linkedin.com/in/mart%C3%ADn-c%C3%A1ceres-murrie-02785289/)
 
 <img src="../img/ciclo/martin-caceres.png" alt="alt text" width="30%" height="30%"> 
 
@@ -121,24 +173,24 @@ Su investigación se sitúa entre el Aprendizaje Automático Estadístico y el P
 
 Ha trabajado como docente en el sistema escolar enseñando física, electrónica y robótica, y en el sistema universitario ha dictado cursos de humanidades digitales y metodologías innovadoras de enseñanza y aprendizaje. Además, ha trabajado en asesorías a escuelas y universidades y en política pública relacionada con innovación pedagógica en Chile y en el extranjero.
 
-## Afiches
+#### Afiches
 
-### ¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina.
+##### ¿Puede ChatGPT conquistar el mundo? Lenguaje humano vs lenguaje de máquina.
 
 <img src="../img/ciclo/afiche-jorge-ortiz.jpg" alt="alt text" width="80%" height="80%">  
 
-### Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4.
+##### Un recorrido por los Modelos de Lenguaje: desde Shannon a GPT-4.
 
 <img src="../img/ciclo/afiche-felipe-bravo.jpg" alt="alt text" width="80%" height="80%">
 
-### Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4.
+##### Desafíos éticos actuales a la luz de la revolución sociotecnológica del GPT3 y 4.
 
 <img src="../img/ciclo/afiche-gabriela-arriagada.jpg" alt="alt text" width="80%" height="80%">
 
-### ChatGPT en la Industria: posibilidades y proyecciones.
+##### ChatGPT en la Industria: posibilidades y proyecciones.
 
 <img src="../img/ciclo/afiche-jp-mp-update.jpg" alt="alt text" width="80%" height="80%">
 
-### Alcances y límites de los modelos de lenguaje.
+##### Alcances y límites de los modelos de lenguaje.
 
 <img src="../img/ciclo/afiche-conversatorio.jpg" alt="alt text" width="80%" height="80%">
