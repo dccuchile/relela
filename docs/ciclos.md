@@ -12,11 +12,7 @@
 
 <img src="../img/ciclo/afiche-fabrizzio-pezzolla-public-opinion.png" alt="Afiche: Fabrizzio Pezzolla" width="45%">
 
-Los modelos de lenguaje permiten simular respuestas de encuestas a bajo costo, en un momento en que las encuestas tradicionales enfrentan una disminución en las tasas de respuesta, costos crecientes y la desconfianza del público. La charla ofrece una visión general de los llamados encuestados sintéticos: cómo se construyen, qué tan bien reproducen las opiniones de diferentes grupos y en qué aspectos fallan.
-
-Se revisan los principales enfoques y sus limitaciones conocidas, como la tendencia a homogeneizar las respuestas o el sesgo hacia datos en inglés y de Estados Unidos, lo que se traduce en un menor desempeño en contextos como Chile. El objetivo es analizar, de manera accesible, hasta dónde puede llegar actualmente esta tecnología y qué preguntas siguen abiertas.
-
-*Sobre el expositor:* Fabrizzio Pezzolla es estudiante de Doctorado en Computación de la Universidad de Chile.
+Los modelos de lenguaje permiten simular respuestas de encuestas a bajo costo, en un momento en que las encuestas tradicionales enfrentan una disminución en las tasas de respuesta, costos crecientes y la desconfianza del público. La charla ofrece una visión general de los llamados encuestados sintéticos: cómo se construyen, qué tan bien reproducen las opiniones de diferentes grupos y en qué aspectos fallan. Se revisan los principales enfoques y sus limitaciones conocidas, como la tendencia a homogeneizar las respuestas o el sesgo hacia datos en inglés y de Estados Unidos, lo que se traduce en un menor desempeño en contextos como Chile. El objetivo es analizar, de manera accesible, hasta dónde puede llegar actualmente esta tecnología y qué preguntas siguen abiertas.
 
 **Enlaces:** [Slides](slides/2026-07-01-fabrizzio-pezzolla-public-opinion.pdf)
 
