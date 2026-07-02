@@ -4,6 +4,22 @@
 
 **IA Estamos!** es el ciclo de charlas organizado por RELELA junto al Departamento de Ciencias de la Computación (DCC), el Centro de Modelamiento Matemático (CMM) y la Iniciativa de Datos e Inteligencia Artificial (IDIA) de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
 
+### Fabrizzio Pezzolla
+
+**Can AI simulate public opinion?**
+
+*Universidad de Chile &middot; Miércoles 1 de julio de 2026, 12:30, Auditorio Ramón Picarte, 3° piso edificio norte, Av. Beauchef 851, Santiago.*
+
+<img src="../img/ciclo/afiche-fabrizzio-pezzolla-public-opinion.png" alt="Afiche: Fabrizzio Pezzolla" width="45%">
+
+Los modelos de lenguaje permiten simular respuestas de encuestas a bajo costo, en un momento en que las encuestas tradicionales enfrentan una disminución en las tasas de respuesta, costos crecientes y la desconfianza del público. La charla ofrece una visión general de los llamados encuestados sintéticos: cómo se construyen, qué tan bien reproducen las opiniones de diferentes grupos y en qué aspectos fallan.
+
+Se revisan los principales enfoques y sus limitaciones conocidas, como la tendencia a homogeneizar las respuestas o el sesgo hacia datos en inglés y de Estados Unidos, lo que se traduce en un menor desempeño en contextos como Chile. El objetivo es analizar, de manera accesible, hasta dónde puede llegar actualmente esta tecnología y qué preguntas siguen abiertas.
+
+*Sobre el expositor:* Fabrizzio Pezzolla es estudiante de Doctorado en Computación de la Universidad de Chile.
+
+**Enlaces:** [Slides](slides/2026-07-01-fabrizzio-pezzolla-public-opinion.pdf)
+
 ### Arie Wortsman Zurich
 
 **Scaling Laws from Sequential Feature Recovery: A Solvable Model**
