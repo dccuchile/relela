@@ -4,6 +4,18 @@
 
 **IA Estamos!** es el ciclo de charlas organizado por RELELA junto al Departamento de Ciencias de la Computación (DCC), el Centro de Modelamiento Matemático (CMM) y la Iniciativa de Datos e Inteligencia Artificial (IDIA) de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
 
+### Giovanni Castiglioni
+
+**Learning Gaussian Embeddings from Temporal Views of Satellite Image Time Series**
+
+*Universidad de Chile y Université Bretagne Sud &middot; Miércoles 15 de julio de 2026, 12:30, Auditorio Ramón Picarte, DCC, 3er piso Edificio Norte, Av. Beauchef 851, Santiago.*
+
+<img src="../img/ciclo/afiche-giovanni-castiglioni-gaussian-embeddings.png" alt="Afiche: Giovanni Castiglioni" width="45%">
+
+El aprendizaje autosupervisado permite aprender características útiles sin depender de muestras etiquetadas, pero el preentrenamiento de modelos fundacionales geoespaciales sobre series temporales de imágenes satelitales sigue siendo difícil por sus dependencias espaciotemporales. La charla presenta un marco basado en JEPA que extrae características con distribución normal desde datos geoespaciales multitemporales, usando vistas globales y locales basadas en agregación temporal.
+
+El método busca representaciones robustas para tareas de teledetección y permite estimar densidad de datos geoespaciales mediante JEPA-Score. Los resultados reportados muestran mejoras frente a modelos fundacionales geoespaciales comparables en tareas como mapeo de tipos de cultivos, segmentación de áreas inundadas y detección de cicatrices de incendios forestales.
+
 ### Fabrizzio Pezzolla
 
 **Can AI simulate public opinion?**
