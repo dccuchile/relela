@@ -4,6 +4,34 @@
 
 **IA Estamos!** es el ciclo de charlas organizado por RELELA junto al Departamento de Ciencias de la Computación (DCC), el Centro de Modelamiento Matemático (CMM) y la Iniciativa de Datos e Inteligencia Artificial (IDIA) de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
 
+### Constanza Vásquez
+
+**Segmentación de tumores usando imágenes de CT en datos chilenos**
+
+*SCIAN Lab, Universidad de Chile, y Departamento de Ciencias de la Computación, Universidad de Concepción &middot; Miércoles 26 de agosto de 2026, 12:30, Auditorio Ramón Picarte, 3er piso Edificio Poniente, Av. Beauchef 851, Santiago.*
+
+<img src="../img/ciclo/afiche-constanza-vasquez-tumores-ct.png" alt="Afiche: Constanza Vásquez" width="45%">
+
+La evaluación de la respuesta al tratamiento oncológico mediante el protocolo RECIST 1.1 es el estándar clínico, pero su ejecución manual es lenta y variable entre radiólogos. Esta charla presenta un nuevo dataset público desarrollado en el Hospital Clínico de la Universidad de Chile: 1.246 lesiones segmentadas manualmente en 58 tomografías de 22 pacientes oncológicos, con mediciones RECIST 1.1 documentadas para 82 lesiones diana.
+
+Es el primer recurso en ofrecer máscaras de segmentación por instancia para todas las lesiones medibles junto a sus mediciones clínicas correspondientes.
+
+Se mostrará además cómo este dataset fue utilizado para entrenar y validar modelos de IA (MedSAM y nnUNet) para segmentación automática de lesiones, abriendo camino a flujos de trabajo más rápidos y reproducibles en radiología oncológica.
+
+### José Miguel Zapata
+
+**Framework de Evaluación de Capacidades Cognitivas de LLMs y su Aplicación al Análisis del Mercado Laboral Chileno**
+
+*Universidad de Chile &middot; Miércoles 19 de agosto de 2026, 12:30, Auditorio Ramón Picarte, DCC, Piso 3, Edificio Norte, Av. Beauchef 851, Santiago.*
+
+<img src="../img/ciclo/afiche-jose-miguel-zapata-fecc.png" alt="Afiche: José Miguel Zapata" width="45%">
+
+Los modelos de lenguaje de gran escala (LLMs) se han posicionado como una fuerza transformadora del mercado laboral. Sin embargo, los estudios tradicionales de exposición a la IA suelen entregar un único puntaje por ocupación, sin detallar qué capacidades cognitivas específicas están en juego.
+
+En esta charla se presentará el Framework de Evaluación de Capacidades Cognitivas (FECC), un protocolo psicométrico basado en el modelo Cattell-Horn-Carroll que evalúa 8 LLMs (de 5 familias arquitectónicas) mediante una adaptación del test Woodcock-Johnson IV, contrastando sus capacidades con las demandas de las 200 ocupaciones principales del mercado laboral chileno.
+
+Descubre cómo este marco permite diagnosticar con precisión qué capacidades cognitivas limitan o aceleran la exposición a la IA en distintas profesiones en Chile.
+
 ### Giovanni Castiglioni
 
 **Learning Gaussian Embeddings from Temporal Views of Satellite Image Time Series**
