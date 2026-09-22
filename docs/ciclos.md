@@ -4,6 +4,34 @@
 
 **IA Estamos!** es el ciclo de charlas organizado por RELELA junto al Departamento de Ciencias de la Computación (DCC), el Centro de Modelamiento Matemático (CMM) y la Iniciativa de Datos e Inteligencia Artificial (IDIA) de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
 
+### Eduardo Graells-Garrido
+
+**El rol de la imaginación en tiempos agénticos**
+
+*Universidad de Chile y CENIA &middot; Miércoles 23 de septiembre de 2026, 12:30, Auditorio Ramón Picarte, DCC, Piso 3, Edificio Norte, Av. Beauchef 851, Santiago.*
+
+<img src="../img/ciclo/afiche-eduardo-graells-garrido-imaginacion.png" alt="Afiche: Eduardo Graells-Garrido" width="45%">
+
+Los modelos de lenguaje (LLM) están ensanchando la brecha entre quienes tienen experiencia programando y quienes no; sin ella, usar estas herramientas evita que se forme el criterio necesario para que su resultado aporte verdadero valor.
+
+Tiempo atrás, entender un código a fondo era como maravillarse con una buena historia. En la década pasada, el código ya no maravillaba porque se estandarizó. Y hoy, con código generado por LLM, incluso se ejecuta software que nadie leyó o entendió simplemente porque pasó los tests. ¡Ahí está la trampa! ¿Son los tests suficientes para una máquina que decide más de lo que una persona imagina? Detectar y explicar esos errores es lo que distingue a alguien senior. Alguien junior no tiene esa capacidad, y con la máquina resolviéndolo todo en minutos, es más difícil que la adquiera.
+
+En esta charla hablaremos de imaginación y maravilla, y de cómo hacerlas crecer dentro de ti para que tu código (o el que genera tu LLM de preferencia) sea mejor.
+
+### Tamara Quiroga
+
+**¿Cómo medir los sesgos de la IA en contextos reales?**
+
+*Pontificia Universidad Católica de Chile &middot; Miércoles 2 de septiembre de 2026, 12:30, Auditorio Ramón Picarte, Departamento de Ciencias de la Computación (DCC), Piso 3, Edificio Norte.*
+
+<img src="../img/ciclo/afiche-tamara-quiroga-sesgos-ia.png" alt="Afiche: Tamara Quiroga" width="45%">
+
+Las pruebas tradicionales para detectar sesgos en modelos de IA utilizan frases o plantillas diseñadas artificialmente. Son fáciles de controlar, pero muchas veces no reflejan cómo las personas realmente hablan y escriben.
+
+Esta investigación explora si los modelos de lenguaje pueden adaptar automáticamente estas pruebas a distintos contextos reales, como Twitter, Wikipedia o reseñas de películas, manteniendo su significado. Los resultados muestran que el contexto importa: las mediciones de sesgo pueden cambiar significativamente dependiendo del tipo de lenguaje utilizado. Adaptar las pruebas al contexto real permite obtener resultados más cercanos a los sesgos que efectivamente aparecen en el uso cotidiano.
+
+En definitiva, el trabajo propone una forma escalable de construir evaluaciones de sesgo que sean controladas, pero al mismo tiempo más cercanas al lenguaje y los contextos reales. La principal lección es que no basta con preguntar si una IA es sesgada: también debemos preguntarnos *“¿sesgada en qué contexto, hacia quién y bajo qué condiciones?”*.
+
 ### Constanza Vásquez
 
 **Segmentación de tumores usando imágenes de CT en datos chilenos**
