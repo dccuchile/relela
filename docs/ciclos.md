@@ -4,6 +4,22 @@
 
 **IA Estamos!** es el ciclo de charlas organizado por RELELA junto al Departamento de Ciencias de la Computación (DCC), el Centro de Modelamiento Matemático (CMM) y la Iniciativa de Datos e Inteligencia Artificial (IDIA) de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
 
+### Maximiliano Westerhout
+
+**LoAC: Length-Optimized Active Contour Loss for Boundary Segmentation in Biomedical Images**
+
+*Research Assistant &amp; Master in Data Science &middot; Miércoles 7 de octubre de 2026, 12:30, Sala P303 - Philippe Flajolet, Departamento de Ciencias de la Computación (DCC), 3er piso, Edificio Poniente, Av. Beauchef 851, Santiago.*
+
+<img src="../img/ciclo/afiche-maximiliano-westerhout-loac.png" alt="Afiche: Maximiliano Westerhout" width="45%">
+
+How can we improve biomedical image segmentation while preserving fine details and geometric structure?
+
+This talk introduces LoAC (Length Optimized Active Contour Loss), a novel loss function designed to improve boundary delineation and contour consistency in biomedical image segmentation. LoAC enhances the optimization of active-contour-based losses by incorporating multi-orientation gradient information, magnitude and orientation constraints, and normalization strategies.
+
+Experiments on the PH2 skin lesion segmentation dataset show that LoAC achieves strong performance, with the highest mean Dice Score, IoU, and Recall among the evaluated methods, including Cross Entropy, Dice, NAC, and ABeDice. The results highlight the potential of geometry-aware loss functions for producing more accurate and consistent biomedical image segmentation.
+
+*Sobre el expositor:* Maximiliano Westerhout holds a Master’s degree in Data Science (MDS) and currently works as a Research Assistant.
+
 ### Tom Hanika
 
 **Geometric Regularization Without Manifolds**
