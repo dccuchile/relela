@@ -4,6 +4,20 @@
 
 **IA Estamos!** es el ciclo de charlas organizado por RELELA junto al Departamento de Ciencias de la Computación (DCC), el Centro de Modelamiento Matemático (CMM) y la Iniciativa de Datos e Inteligencia Artificial (IDIA) de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
 
+### Valentina Aravena
+
+**Which Prompting Technique for Argumentative Essay Scoring? A Unified Prompt Optimization Comparison**
+
+*Universidad de Chile &middot; Miércoles 4 de noviembre de 2026, 12:30, Auditorio Ramón Picarte, DCC, Piso 3, Edificio Norte.*
+
+<img src="../img/ciclo/afiche-valentina-aravena-essay-scoring.png" alt="Afiche: Valentina Aravena" width="45%">
+
+Los modelos de lenguaje (LLMs) ya se están utilizando para evaluar ensayos, pero las investigaciones suelen diseñar manualmente los prompts utilizados en estas evaluaciones. Esto plantea una pregunta importante: cuando una técnica obtiene mejores resultados que otra, ¿se debe realmente a la técnica o al prompt utilizado?
+
+En esta charla se presentará una comparación sistemática de ocho técnicas de prompting para la evaluación de ensayos argumentativos. Entre ellas se incluye Dual-Rater Adjudication, una nueva propuesta que combina dos evaluadores con un mecanismo de adjudicación para resolver sus discrepancias.
+
+La presentación abordará dos preguntas centrales: ¿cuánto influye la elección de la técnica de prompting en los resultados de evaluación? ¿Y cuál es el costo asociado a cada alternativa?
+
 ### Maximiliano Westerhout
 
 **LoAC: Length-Optimized Active Contour Loss for Boundary Segmentation in Biomedical Images**
