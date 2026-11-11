@@ -4,6 +4,18 @@
 
 **IA Estamos!** es el ciclo de charlas organizado por RELELA junto al Departamento de Ciencias de la Computación (DCC), el Centro de Modelamiento Matemático (CMM) y la Iniciativa de Datos e Inteligencia Artificial (IDIA) de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
 
+### Felipe Urrutia
+
+**Posicional versus Simbólico: Aprendizaje, Mecanismos y Generalización**
+
+*Pontificia Universidad Católica de Chile y CENIA &middot; Miércoles 11 de noviembre de 2026, 12:30, Sala Philippe Flajolet, DCC, Piso 3, Edificio Poniente.*
+
+<img src="../img/ciclo/afiche-felipe-urrutia-posicional-simbolico.png" alt="Afiche: Felipe Urrutia" width="45%">
+
+Las cabezas de atención de un Transformer se especializan en un continuo entre comportamiento posicional y simbólico. En simple, una cabeza se comporta posicionalmente en un input si atiende a un cierto lugar por la posición que ocupa, independientemente del contenido que hay allí. Por otro lado, un comportamiento simbólico ocurre cuando la cabeza atiende a un cierto lugar por el contenido que posee, independientemente de su posición.
+
+En tareas que requieren razonamiento multi-hop, se ha observado que la especialización de cabezas emerge de forma medible durante el entrenamiento. A partir de los pesos de la red, se han deducido dos mecanismos (Selective Indexing y Retrieval) para entender cómo generalizan con la longitud de la secuencia. Se ha descubierto que el mecanismo posicional es estructuralmente más frágil ante secuencias largas que el simbólico, una falla observada tanto en modelos entrenados desde cero como en modelos comerciales cerrados.
+
 ### Valentina Aravena
 
 **Which Prompting Technique for Argumentative Essay Scoring? A Unified Prompt Optimization Comparison**
