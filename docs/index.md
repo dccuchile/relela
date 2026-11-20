@@ -85,7 +85,7 @@ The Representations for Learning and Language (ReLeLa) research group located wi
 6. Cristián Tamblay
 7. Henry Rosales 
 8. Camilo Garrido
-9. [Vicente Oyanedel](https://vichoko.cl/)
+9. [Vicente Oyanedel](https://www.linkedin.com/in/vicente-oyanedel/)
 10. Ricardo Córdova
 
 ## Collaborators
